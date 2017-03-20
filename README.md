@@ -3,6 +3,10 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-03-21
+
+[Workout](./workout/workout.md)
+
 ### 2017-03-20
 
 [Elixir Deployment](./programming/elixir/deployment.md)

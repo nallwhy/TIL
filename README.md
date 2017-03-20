@@ -3,6 +3,14 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-03-20
+
+[Elixir Deployment](./programming/elixir/deployment.md)
+
+[Elixir](./programming/elixir/elixir.md)
+
+[Docker](./programming/docker/docker-docs.md)
+
 ### 2017-03-19
 
 [Workout](./workout/workout.md)

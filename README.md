@@ -7,17 +7,28 @@ Today I Learned.
 
 [Workout](./workout/workout.md)
 
+[apt-get -y](./programming/etc.md#2017-03-21)
+
+[Elixir Deployment](./programming/elixir/deployment.md)
+
+[Docker Docs](./programming/docker/docker-docs.md)
+
+[THE NATURE OF SOFTWARE DEVELOPMENT](./book/the_nature_of_software_development.md)
+
+
 ### 2017-03-20
 
 [Elixir Deployment](./programming/elixir/deployment.md)
 
-[Elixir](./programming/elixir/elixir.md)
+[Elixir](./programming/elixir/elixir.md#2017-03-20)
 
-[Docker](./programming/docker/docker-docs.md)
+[Docker Docs](./programming/docker/docker-docs.md)
+
 
 ### 2017-03-19
 
 [Workout](./workout/workout.md)
+
 
 ### 2017-03-16
 

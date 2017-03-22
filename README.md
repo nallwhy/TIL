@@ -3,6 +3,17 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-03-22
+
+[Workout](./workout/workout.md)
+
+[Android](./programming/android/android.md)
+
+[Elixir](./programming/elixir/elixir.md)
+
+[Configuring multiple profiles to the AWS CLI](./programming/aws/multiple_profiles_to_aws_cli.md)
+
+
 ### 2017-03-21
 
 [Workout](./workout/workout.md)
@@ -14,6 +25,8 @@ Today I Learned.
 [Docker Docs](./programming/docker/docker-docs.md)
 
 [THE NATURE OF SOFTWARE DEVELOPMENT](./book/the_nature_of_software_development.md)
+
+[THE LITTLE Elixir & OTP GUIDEBOOK](./book/the_little_elixir_and_otp_guidebook.md)
 
 
 ### 2017-03-20

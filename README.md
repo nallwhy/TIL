@@ -3,6 +3,13 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-03-23
+
+[Workout](./workout/workout.md)
+
+[Database](./programming/database.md)
+
+
 ### 2017-03-22
 
 [Workout](./workout/workout.md)

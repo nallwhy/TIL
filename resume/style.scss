@@ -1,0 +1,65 @@
+@import 'flexbox';
+
+.site-title {
+  .rounded { width: 40px; height: 40px;}
+}
+
+.rounded {
+  border-radius:10%;
+  overflow:hidden;
+}
+
+.post-content {
+  h3 {
+    text-decoration: underline;
+    &:not(:first-of-type) { margin-top: 40px; }
+  }
+
+  p img { margin: 10px; }
+}
+
+// .activity { text-align: center; }
+
+.board-flex-container {
+  @include flexbox;
+  // @include align-items(center);
+  // @include justify-content(space-between);
+  padding: 20px 15px 25px 15px;
+
+  border-top: 1px solid #828282;
+  &:last-of-type{border-bottom: 1px solid #828282; margin-bottom: 20px;}
+
+  .board-flex-content {
+    margin-right: 20px;
+    @include flex(0, 3, 500px);
+    @include align-self(center);
+
+    a.board-title {
+      color: black !important;
+    }
+    .content-detail {
+      margin-bottom: 3px;
+      font-size: 14px;
+    }
+  }
+  .board-flex-image {
+    @include flex(0, 1, 130px);
+  }
+}
+
+.card-flex-container {
+  width: 100%;
+  @include inline-flex;
+  // @include flexbox;
+  @include flex-wrap(wrap);
+  @include justify-content(center);
+
+  padding: 20px 15px 25px 15px;
+
+  .card-flex-item {
+    @include flex(0, 0, 160px);
+    margin: 0 20px;
+    img { @extend .rounded; width: 160px; height: 160px; }
+    p { text-align: center; }
+  }
+}

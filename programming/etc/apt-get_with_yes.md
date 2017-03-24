@@ -1,4 +1,4 @@
-### 2017-03-21
+## `apt-get` with **YES**
 
 To run `apt-get` command with automatic yes,
 

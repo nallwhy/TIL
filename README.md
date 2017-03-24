@@ -7,6 +7,14 @@ Today I Learned.
 
 [Workout](./workout/workout.md)
 
+[Updating the mappings and settings of an existing index](./programming/elasticsearch/updating_mappings_settings_of_existing_index.md)
+
+[iOS](./programming/ios/ios.md)
+
+[HOW TO AVOID THE SPLIT-BRAIN PROBLEM IN ELASTICSEARCH](./programming/elasticsearch/split-brain_problem.md)
+
+[DNS](./programming/etc/dns.md)
+
 ### 2017-03-23
 
 [Workout](./workout/workout.md)
@@ -29,7 +37,7 @@ Today I Learned.
 
 [Workout](./workout/workout.md)
 
-[apt-get -y](./programming/etc.md#2017-03-21)
+[apt-get -y](./programming/etc/apt-get_with_yes.md)
 
 [Elixir Deployment](./programming/elixir/deployment.md)
 

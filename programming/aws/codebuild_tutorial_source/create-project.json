@@ -1,0 +1,20 @@
+{
+  "name": "sample-ruby-project",
+  "source": {
+    "type": "S3",
+    "location": "<input-bucket>/RubySample.zip"
+  },
+  "artifacts": {
+    "type": "S3",
+    "location": "<s3location>",
+    "packaging": "NONE",
+    "name": "<name>"
+  },
+  "environment": {
+    "type": "LINUX_CONTAINER",
+    "image": "aws/codebuild/ruby:2.3.1",
+    "computeType": "BUILD_GENERAL1_SMALL"
+  },
+  "serviceRole": "<serviceRole>",
+  "encryptionKey": "<encryptionKey>"
+}

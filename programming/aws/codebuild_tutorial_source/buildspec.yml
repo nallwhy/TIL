@@ -1,0 +1,18 @@
+version: 0.1
+
+phases:
+  install:
+    commands:
+      - echo Installing RSpec...
+      - gem install rspec
+  build:
+    commands:
+      - echo Build started on `date`
+      - echo Compiling the Ruby code...
+      - rspec HelloWorld_spec.rb
+  post_build:
+    commands:
+      - echo Build completed on `date`
+artifacts:
+  files:
+    - HelloWorld.rb

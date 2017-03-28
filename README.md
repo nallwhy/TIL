@@ -3,6 +3,20 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-03-28
+
+[Install rbenv on fish](./programming/etc/install_rbenv_on_fish.md)
+
+
+### 2017-03-27
+
+[Cody a directory from one to another via the command line](./programming/etc/copy_directory.md)
+
+[AWS Codebuild Tutorial](./programming/aws/codebuild_tutorial.md)
+
+[Install Postgresql to Ubuntu](./programming/etc/install_postgresql_to_ubuntu.md)
+
+
 ### 2017-03-24
 
 [Workout](./workout/workout.md)
@@ -14,6 +28,7 @@ Today I Learned.
 [HOW TO AVOID THE SPLIT-BRAIN PROBLEM IN ELASTICSEARCH](./programming/elasticsearch/split-brain_problem.md)
 
 [DNS](./programming/etc/dns.md)
+
 
 ### 2017-03-23
 

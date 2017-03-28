@@ -7,6 +7,14 @@ Today I Learned.
 
 [Install rbenv on fish](./programming/etc/install_rbenv_on_fish.md)
 
+[Elixir](./programming/elixir/elixir.md#2017-03-28)
+
+[Ruby](./programming/ruby/ruby.md#2017-03-28)
+
+[Javascript](./programming/javascript/javascript.md#2017-03-28)
+
+[Electron](./programming/electron/electron.md#2017-03-28)
+
 
 ### 2017-03-27
 

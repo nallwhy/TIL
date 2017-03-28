@@ -1,5 +1,11 @@
-### 2017-03-16
+### 2017-03-28
 
+#### Top 27 Angular 2 Components for Web Developers
+
+https://colorlib.com/wp/angular-2-components
+
+
+### 2017-03-16
 
 #### Get key events
 ```typescript

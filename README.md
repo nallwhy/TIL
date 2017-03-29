@@ -9,6 +9,12 @@ Today I Learned.
 
 [Angular](./programming/angular/angular.md#2017-03-29)
 
+[AWS](./programming/aws/aws.md#2017-03-29)
+
+[Elixir](./programming/elixir/elixir.md#2017-03-29)
+
+[Kotlin](./programming/kotlin/kotlin.md#2017-03-29)
+
 
 ### 2017-03-28
 

@@ -10,6 +10,12 @@ How to create decorator.
 
 https://www.softwarearchitekt.at/post/2017/03/07/server-side-rendering-with-angular-4.aspx
 
+#### Planning An Angular Application
+
+http://developer.telerik.com/topics/web-development/planning-an-angular-application
+
+Angular 개발 시 이럴 땐 이걸 써라 정리.
+
 
 ### 2017-03-28
 

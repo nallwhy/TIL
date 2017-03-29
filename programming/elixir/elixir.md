@@ -1,3 +1,16 @@
+### 2017-03-29
+
+#### Distributed Elixir on… Heroku?
+
+https://medium.com/@karmajunkie/distributed-elixir-on-heroku-59b691d9868e
+
+#### Slap
+
+https://github.com/derniercri/slap
+
+A simple load testing tool.
+
+
 ### 2017-03-28
 
 #### Updating individual Elixir libraries using mix

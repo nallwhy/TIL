@@ -1,6 +1,5 @@
 ### 2017-03-16
 
-
 #### How to give line-break from css, without using `<br />`?
 
 ```css
@@ -9,7 +8,6 @@ white-space: pre | pre-wrap | pre-line // But 'pre-line' collapse whitespaces
 
 Translation:
 https://developer.mozilla.org/ko/docs/Web/CSS/white-space
-
 
 #### Difference between `inline` and `inline-block`
 
@@ -28,7 +26,6 @@ See also https://hacks.mozilla.org/2015/03/understanding-inline-box-model/
 3. Respect height and width
 
 Reference: http://stackoverflow.com/questions/9189810/css-display-inline-vs-inline-block
-
 
 #### object-fit
 

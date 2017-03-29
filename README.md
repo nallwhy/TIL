@@ -3,6 +3,13 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-03-29
+
+[장사의 신](./book/book.md)
+
+[Angular](./programming/angular/angular.md#2017-03-29)
+
+
 ### 2017-03-28
 
 [Install rbenv on fish](./programming/etc/install_rbenv_on_fish.md)

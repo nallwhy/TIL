@@ -3,6 +3,17 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-03-30
+
+[Sublime/Highlight Dodge Chars](./etc/sublime/highlight_dodgy_chars.md)
+
+[AWS/Install the CodeDeploy agent on an EC2 instance automatically](./programming/aws/automaticcaly_install_codedeploy_agent_on_ec2.md)
+
+[Javascript/Converting a callback to a promise](./programming/javascript/converting_callback_to_promise.md)
+
+[Clone a specific Git branch](./programming/etc/clone_specific_git_branch.md)
+
+
 ### 2017-03-29
 
 [장사의 신](./book/book.md)

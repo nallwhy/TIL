@@ -3,6 +3,15 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-03-31
+
+[Bash urlencode](./programming/etc/bash_urlencode.md)
+
+[Elixir/Why processes trump objects](./programming/elixir/why_processes_trump_objects.md)
+
+[How To SSH Run Multiple Command On Remote Machine And Exit Safely](./programming/etc/ssh_run_multiple_command.md)
+
+
 ### 2017-03-30
 
 [Sublime/Highlight Dodge Chars](./etc/sublime/highlight_dodgy_chars.md)

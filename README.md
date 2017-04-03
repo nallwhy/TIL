@@ -3,6 +3,18 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-04-03
+
+[Sleep](./health/sleep.md)
+
+[Workout](./health/workout.md)
+
+
+### 2017-04-02
+
+[Book](./book/book.md)
+
+
 ### 2017-03-31
 
 [Bash urlencode](./programming/etc/bash_urlencode.md)
@@ -60,7 +72,7 @@ Today I Learned.
 
 ### 2017-03-24
 
-[Workout](./workout/workout.md)
+[Workout](./health/workout.md)
 
 [Updating the mappings and settings of an existing index](./programming/elasticsearch/updating_mappings_settings_of_existing_index.md)
 
@@ -73,14 +85,14 @@ Today I Learned.
 
 ### 2017-03-23
 
-[Workout](./workout/workout.md)
+[Workout](./health/workout.md)
 
 [Database](./programming/database.md)
 
 
 ### 2017-03-22
 
-[Workout](./workout/workout.md)
+[Workout](./health/workout.md)
 
 [Android](./programming/android/android.md)
 
@@ -91,7 +103,7 @@ Today I Learned.
 
 ### 2017-03-21
 
-[Workout](./workout/workout.md)
+[Workout](./health/workout.md)
 
 [apt-get -y](./programming/etc/apt-get_with_yes.md)
 
@@ -115,7 +127,7 @@ Today I Learned.
 
 ### 2017-03-19
 
-[Workout](./workout/workout.md)
+[Workout](./health/workout.md)
 
 
 ### 2017-03-16

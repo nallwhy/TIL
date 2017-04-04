@@ -3,6 +3,10 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-04-04
+
+[Book/외모 지상주의에 관한 소고](./book/외모 지상주의에 관한 소고.md)
+
 ### 2017-04-03
 
 [Sleep](./health/sleep.md)

@@ -78,7 +78,7 @@ managing processes easier
 2011
 José Valim
 Erlang 은 old 한 부분이 많았다. syntax, testing, ...  
-=> Erlang ecosystme 에서 돌아가는 현대적 언어를 만들어보자!
+=> Erlang ecosystem 에서 돌아가는 현대적 언어를 만들어보자!
 
 ##### Processes communicate via messages
 

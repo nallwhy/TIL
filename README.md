@@ -3,6 +3,13 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-04-06
+
+[iOS](./programming/ios/ios.md#2017-04-06)
+
+[Ionic tutorial](./programming/ionic/ionic_tutorial.md)
+
+
 ### 2017-04-05
 
 [Docker/Run docker in docker](./programming/docker/run_docker_in_docker.md)

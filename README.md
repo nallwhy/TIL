@@ -9,6 +9,18 @@ Today I Learned.
 
 [Design](./etc/design/design.md#2017-04-05)
 
+[Javascript](./programming/javascript/javascript.md#2017-04-05)
+
+[Install Node.js 6.x to ubuntu](./programming/etc/install_nodejs_6.x_to_ubuntu.md)
+
+[Install Yarn to ubuntu](./programming/etc/install_yarn_to_ubuntu.md)
+
+[Invitation lunch/ybrain](./etc/invitation_lunch_170406.md)
+
+[Elixir/IEx shortcuts](./programming/elixir/iex_shortcuts.md)
+
+[How can I search for available packages?](./programming/etc/apt_search_available_packages.md)
+
 
 ### 2017-04-04
 

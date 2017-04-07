@@ -1,3 +1,14 @@
+### 2017-04-05
+
+#### YOU MIGHT NOT NEED JQUERY
+
+http://youmightnotneedjquery.com/
+
+#### You Might Not Need Underscore
+
+https://www.reindex.io/blog/you-might-not-need-underscore/
+
+
 ### 2017-03-28
 
 #### MoveTo

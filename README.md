@@ -9,6 +9,15 @@ Today I Learned.
 
 [Ruby/Faster Rails: How to Check if a Record Exists](./prgramming/ruby/present_vs_any_vs_empty_vs_exist.md)
 
+[Design](./etc/design/design.md#2017-04-07)
+
+[AWS/Sync time of docker container](./programming/aws/sync_time_of_docker_container.md)
+
+[Elixir](./programming/elixir/elixir.md#2017-04-07)
+
+[Ruby](./programming/ruby/ruby.md#2017-04-07)
+
+
 ### 2017-04-06
 
 [iOS](./programming/ios/ios.md#2017-04-06)

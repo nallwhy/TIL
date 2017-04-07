@@ -1,3 +1,12 @@
+### 2017-04-07
+
+#### Credo
+
+https://github.com/rrrene/credo
+
+Credo is a static code analysis tool for the Elixir language with a focus on teaching and code consistency.
+
+
 ### 2017-03-29
 
 #### Distributed Elixir on… Heroku?

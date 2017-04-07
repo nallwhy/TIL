@@ -3,6 +3,12 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-04-07
+
+[Sleep](./health/sleep.md)
+
+[Ruby/Faster Rails: How to Check if a Record Exists](./prgramming/ruby/present_vs_any_vs_empty_vs_exist.md)
+
 ### 2017-04-06
 
 [iOS](./programming/ios/ios.md#2017-04-06)

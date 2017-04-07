@@ -3,6 +3,21 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-04-07
+
+[Sleep](./health/sleep.md)
+
+[Ruby/Faster Rails: How to Check if a Record Exists](./prgramming/ruby/present_vs_any_vs_empty_vs_exist.md)
+
+### 2017-04-06
+
+[iOS](./programming/ios/ios.md#2017-04-06)
+
+[Ionic tutorial](./programming/ionic/ionic_tutorial.md)
+
+[Sleep](./health/sleep.md)
+
+
 ### 2017-04-05
 
 [Docker/Run docker in docker](./programming/docker/run_docker_in_docker.md)

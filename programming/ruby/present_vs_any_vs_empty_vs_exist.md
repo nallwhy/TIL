@@ -46,6 +46,8 @@ empty?   =>   403.9 ms
 exists?   =>     1.1 ms
 ```
 
+> `blank?` is similar to `present?`.
+
 ### Exception
 
 If we are checking for the existence of an association record without any scope, `any?` and `empty?` will also produce a very optimized query that uses `SELECT 1 FROM ... LIMIT 1` form, but `any?` fill not hit the database again if the records are **already loaded** into memory.

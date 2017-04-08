@@ -3,11 +3,26 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-04-08
+
+[Chrome devtools: code coverage](./programming/etc/chrome_devtools_code_coverage.md)
+
+[Javascript](./programming/javascript/javascript.md#2017-04-08)
+
+[Sleep](./health/sleep.md)
+
+[Elm](./programming/elm/elm.md)
+
+[Angular/Use Yarn instead of NPM on Angular CLI](./programming/angular/add_yarn_global_path.md)
+
+[Add Yarn global path](./programming/etc/add_yarn_global_path.md)
+
+
 ### 2017-04-07
 
 [Sleep](./health/sleep.md)
 
-[Ruby/Faster Rails: How to Check if a Record Exists](./prgramming/ruby/present_vs_any_vs_empty_vs_exist.md)
+[Ruby/Faster Rails: How to Check if a Record Exists](./programming/ruby/present_vs_any_vs_empty_vs_exist.md)
 
 [Design](./etc/design/design.md#2017-04-07)
 
@@ -16,6 +31,8 @@ Today I Learned.
 [Elixir](./programming/elixir/elixir.md#2017-04-07)
 
 [Ruby](./programming/ruby/ruby.md#2017-04-07)
+
+[Workout](./health/workout.md)
 
 
 ### 2017-04-06

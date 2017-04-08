@@ -1,3 +1,12 @@
+### 2017-04-08
+
+#### Date Dropper
+
+http://felicegattuso.com/projects/datedropper/
+
+이쁘긴 하지만 화살표 방향과 애니메이션 방향이 일치하면 좋겠다. jQuery 를 사용한 것이 아쉽.
+
+
 ### 2017-04-05
 
 #### YOU MIGHT NOT NEED JQUERY

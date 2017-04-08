@@ -3,6 +3,13 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-04-08
+
+[AWS](./programming/aws/aws.md)
+
+[Javascript](./programming/javascript/javascript.md)
+
+
 ### 2017-04-07
 
 [Sleep](./health/sleep.md)

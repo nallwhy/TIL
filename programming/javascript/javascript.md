@@ -6,6 +6,12 @@ https://github.com/developit/preact
 
 Fast & light alternative to React.
 
+#### Date Dropper
+
+http://felicegattuso.com/projects/datedropper/
+
+이쁘긴 하지만 화살표 방향과 애니메이션 방향이 일치하면 좋겠다. jQuery 를 사용한 것이 아쉽.
+
 
 ### 2017-04-05
 

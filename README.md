@@ -3,6 +3,13 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-04-12
+
+[Sleep](./health/sleep.md)
+
+[Angular/Angular material with Angular CLI](./programming/angular/angular_material_with_angular_cli.md)
+
+
 ### 2017-04-11
 
 [Sleep](./health/sleep.md)

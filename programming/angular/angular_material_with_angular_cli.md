@@ -134,7 +134,7 @@ Add theme scss file to `.angular-cli.json`
 }
 ```
 
-Reference:
-https://material.angular.io/guide
-http://stackoverflow.com/questions/41440998/angular2-material-real-custom-theming
+Reference:  
+https://material.angular.io/guide  
+http://stackoverflow.com/questions/41440998/angular2-material-real-custom-theming  
 http://mcg.mbitson.com/

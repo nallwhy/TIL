@@ -12,6 +12,11 @@ Today I Learned.
 [Elixir/Running tasks on Elixir release](./programming/elixir/running_task_on_elixir_release.md)
 
 
+### 2017-04-09
+
+[Sleep](./health/sleep.md)
+
+
 ### 2017-04-08
 
 [Chrome devtools: code coverage](./programming/etc/chrome_devtools_code_coverage.md)

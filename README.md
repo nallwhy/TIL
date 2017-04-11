@@ -3,6 +3,15 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-04-11
+
+[Sleep](./health/sleep.md)
+
+[Git/Cleaning branches deleted on remote](./programming/git/cleaning_branches_deleted_on_remote.md)
+
+[Elixir/Running tasks on Elixir release](./programming/elixir/running_task_on_elixir_release.md)
+
+
 ### 2017-04-08
 
 [Chrome devtools: code coverage](./programming/etc/chrome_devtools_code_coverage.md)

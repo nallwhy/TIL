@@ -1,3 +1,18 @@
+### 2017-04-13
+
+#### Get nth weekday for a given month
+
+http://stackoverflow.com/questions/20283667/how-to-determine-the-nth-weekday-for-a-given-month
+
+```ruby
+def nth_weekday(year, month, n, wday)
+  first_day = DateTime.new(year, month, 1)
+  arr = (first_day..(first_day.end_of_month)).to_a.select {|d| d.wday == wday }
+  n == 'last' ? arr.last : arr[n - 1]
+end
+```
+
+
 ### 2017-04-07
 
 #### Hanami

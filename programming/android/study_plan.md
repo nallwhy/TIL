@@ -1,0 +1,4 @@
+- [ ] https://angular.io/docs/ts/latest/
+- [ ] ngbook
+- [ ] https://angular-2-training-book.rangle.io/
+- [ ] https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/overview

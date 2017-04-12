@@ -1,3 +1,23 @@
+### 2017-04-13
+
+#### kotlin-unwrap
+
+https://github.com/importre/kotlin-unwrap
+
+```kotlin
+val _a = foo("Hello")
+val _b = foo("World")
+val _c = foo(null)
+
+// example: error handing
+unwrap(_a, _b, _c) { a, b, c ->
+    println("$a, $b$c") // not invoked
+} otherwise {
+    println("Nah!")     // invoked because `_c` is null
+}
+```
+
+
 ### 2017-03-29
 
 #### Your first Node.js app with Kotlin

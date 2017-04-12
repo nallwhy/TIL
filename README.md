@@ -3,6 +3,19 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-04-13
+
+[Kotlin](./programming/kotlin/kotlin.md#2017-04-13)
+
+[Kotlin/Kotlin Night](./programming/kotlin/kotlin_night_20170412.md)
+
+[Android](./programming/android/android.md#2017-04-13)
+
+[Elm](./programming/elm/elm.md#2017-04-13)
+
+[Ruby](./programming/ruby/ruby.md#2017-04-13)
+
+
 ### 2017-04-12
 
 [Sleep](./health/sleep.md)

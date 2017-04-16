@@ -3,6 +3,17 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-04-17
+
+[Sleep](./health/sleep.md)
+
+[Heroku/Deploying non-master branch to Heroku](./programming/heroku/deploying_non_master_branch.md)
+
+[Angular](./programming/angular/angular.md#2017-04-17)
+
+[Heroku/Use Yarn with Node.js app on Heroku](./programming/heroku/use_yarn_with_nodejs_app_on_heroku.md)
+
+
 ### 2017-04-13
 
 [Kotlin](./programming/kotlin/kotlin.md#2017-04-13)

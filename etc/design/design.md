@@ -1,6 +1,21 @@
+### 2017-04-12
+
+#### Hamburger Menu Alternatives for Mobile Navigation
+
+https://blog.marvelapp.com/hamburger-menu-alternatives-mobile-navigation
+
+Tabs  
+|  
+Tabs with a 'more' option  
+|  
+Progressively Collapsing Menu or Scrollable Navigation
+
+> Sometimes, surprisingly, the hamburger menu might be a good choice
+
+
 ### 2017-04-07
 
-### Material Color Tool
+#### Material Color Tool
 
 https://material.io/color
 

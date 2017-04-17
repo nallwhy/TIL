@@ -1,3 +1,32 @@
+### 2017-04-12
+
+#### Floating Point and currency
+
+http://blog.plataformatec.com.br/2014/09/floating-point-and-currency/
+
+Do not use `floating point` for currency. Use `integer` or something for `decimal number`.
+
+#### Elixir Module Attributes - Alchemy 101 Part 1
+
+https://www.erlang-solutions.com/blog/elixir-module-attributes-alchemy-101-part-1.html
+
+Module attributes are evaluated at **compile time**, not runtime.
+
+#### From Elixir Mix configuration to release configuration - Alchemy 101 Part 2
+
+https://www.erlang-solutions.com/blog/from-elixir-mix-configuration-to-release-configuration-alchemy-101-part-2.html
+
+When creating a release, `config.exs` is evaluated and the result is written to `rel/$app/releases/$version/sys.config` which is picked up by your application on startup.
+
+#### Fault Tolerance doesn't come out of the box - Alchemy 101: Part 3
+
+https://www.erlang-solutions.com/blog/fault-tolerance-doesn-t-come-out-of-the-box-alchemy-101-part-3.html
+
+#### Setting Up Phoenix/Elixir With Nginx and LetsEncrypt
+
+https://medium.com/@a4word/setting-up-phoenix-elixir-with-nginx-and-letsencrypt-ada9398a9b2c
+
+
 ### 2017-04-07
 
 #### Credo

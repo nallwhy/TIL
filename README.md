@@ -33,6 +33,16 @@ Today I Learned.
 
 [Angular/Angular material with Angular CLI](./programming/angular/angular_material_with_angular_cli.md)
 
+[Ruby](./programming/ruby/ruby.md#2017-04-12)
+
+[Elixir](./programming/elixir/elxiir.md#2017-04-12)
+
+[Analytics](./etc/analytics.md#2017-04-12)
+
+[Kotlin](./programming/kotlin/kotlin.md#2017-04-12)
+
+[Design](./etc/design/design.md#2017-04-12)
+
 
 ### 2017-04-11
 

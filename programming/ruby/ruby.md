@@ -1,3 +1,12 @@
+### 2017-04-12
+
+#### RubyMonk
+
+https://rubymonk.com/
+
+RubyMonk, the best site to learn Ruby ever, has come back!
+
+
 ### 2017-04-07
 
 #### Hanami

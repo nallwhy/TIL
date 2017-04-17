@@ -1,3 +1,12 @@
+### 2017-04-12
+
+#### Kodein
+
+https://github.com/SalomonBrys/Kodein
+
+Kodein is a very simple and yet very useful dependency retrieval container.
+
+
 ### 2017-03-29
 
 #### Your first Node.js app with Kotlin

@@ -1,3 +1,12 @@
+### 2017-04-17
+
+#### Prettier
+
+https://github.com/prettier/prettier
+
+JavaScript formatter with advanced support for language features from ES2017, JSX, and Flow.
+
+
 ### 2017-04-08
 
 #### Preact

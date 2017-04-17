@@ -13,6 +13,14 @@ Today I Learned.
 
 [Heroku/Use Yarn with Node.js app on Heroku](./programming/heroku/use_yarn_with_nodejs_app_on_heroku.md)
 
+[Javascript](./programming/javascript/javascript.md#2017-04-17)
+
+[40 Hours is Enough](./etc/40_hours_is_enough.md)
+
+[Kotlin](./programming/kotlin/kotlin.md#2017-04-17)
+
+[Ruby, HTTP/2 and You](./programming/etc/ruby_http2_and_you#2017-04-17)
+
 
 ### 2017-04-13
 

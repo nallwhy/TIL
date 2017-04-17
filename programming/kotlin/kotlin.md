@@ -1,3 +1,10 @@
+### 2017-04-17
+
+#### Kotlin all your tests
+
+https://speakerdeck.com/dpreussler/kotlin-all-your-tests-codefest-dot-ru-2017
+
+
 ### 2017-04-13
 
 #### kotlin-unwrap

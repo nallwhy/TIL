@@ -5,6 +5,24 @@
 https://medium.com/@ryanchenkie_40935/angular-cli-deployment-host-your-angular-2-app-on-heroku-3f266f13f352
 
 
+#### Understanding Angular modules (NgModule) and their scopes
+
+https://medium.com/@cyrilletuzi/understanding-angular-modules-ngmodule-and-their-scopes-81e4ed6f7407
+
+The purpose of a *NgModule* is to declare each thing you create in Angular.
+
+There is two kind of main structures :  
+*declarations* is for things you’ll use in your templates : mainly components (~ *views* : the classes displaying data), but also directives and pipes.  
+*providers* is for services (~ *models* : the classes getting and handling data).
+
+It seemed unnecessary complexity, as it feels redundant with ES6 imports. But it's worth it.
+
+* It allows *Ahead of Time (AoT) compilation*, which is amazing for performance.
+* It actually saves you many lines of imports. In beta versions of Angular 2, you needed to import your components and directives every time you used them.
+
+And How to import modules..
+
+
 ### 2017-03-29
 
 #### Using decorators and observables to implement retry

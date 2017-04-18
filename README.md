@@ -5,6 +5,10 @@ Today I Learned.
 
 ### 2017-04-18
 
+[Sleep](./health/sleep.md)
+
+[Angular](./programming/angular/angular.md#2017-04-18)
+
 [Javascript](./programming/javascript/javascript.md#2017-04-18)
 
 [Ruby](./programming/ruby/ruby.md#2017-04-18)

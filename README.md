@@ -3,6 +3,19 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-04-18
+
+[Javascript](./programming/javascript/javascript.md#2017-04-18)
+
+[Ruby](./programming/ruby/ruby.md#2017-04-18)
+
+[Elixir](./programming/elixir/elixir.md#2017-04-18)
+
+[Elixir/Hound](./programming/elixir/hound.md)
+
+[Ted/This app makes it fun to pick up litter](./etc/ted.md#2017-04-18)
+
+
 ### 2017-04-17
 
 [Sleep](./health/sleep.md)

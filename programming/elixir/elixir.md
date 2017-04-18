@@ -1,3 +1,14 @@
+### 2017-04-18
+
+#### Logging slow Ecto queries: adventures in metaprogramming
+
+https://hackernoon.com/logging-slow-ecto-queries-adventures-in-metaprogramming-110f3472be33
+
+#### Exnumerator
+
+https://github.com/KamilLelonek/exnumerator
+
+
 ### 2017-04-12
 
 #### Floating Point and currency

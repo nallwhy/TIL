@@ -1,3 +1,10 @@
+### 2017-04-18
+
+#### JUnit 5: Kotlin
+
+https://blog.stylingandroid.com/junit-5-kotlin
+
+
 ### 2017-04-17
 
 #### Kotlin all your tests

@@ -1,6 +1,6 @@
 ## Add Yarn global path
 
-When you install packages globally, it's natural to use the cli command of the packages, like
+When you install packages globally via `npm`, it's natural to use the cli command of the packages, like
 
 ```bash
 $ npm install -g @angular/cli

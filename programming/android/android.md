@@ -1,3 +1,16 @@
+### 2017-04-19
+
+#### Workcation App – Part 1. Fragment custom transition 
+
+https://www.thedroidsonroids.com/blog/android/workcation-app-part-1-fragments-custom-transition/
+
+There are 3 more articles in that series.
+
+#### How We Made the ToolBar on Android Move Like Jelly: Animation in Kotlin
+
+https://yalantis.com/blog/toolbar-jelly-animation-kotlin-android
+
+
 ### 2017-04-13
 
 #### RxJava2를 도입하며

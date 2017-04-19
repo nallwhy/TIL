@@ -3,6 +3,17 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-04-19
+
+[Sleep](./health/sleep.md)
+
+[Setting global path of Yarn](./programming/etc/setting_global_path_of_yarn.md)
+
+[Android](./programming/android/android.md#2017-04-19)
+
+[Kotlin](./programming/kotlin/kotlin.md#2017-04-19)
+
+
 ### 2017-04-18
 
 [Sleep](./health/sleep.md)

@@ -7,6 +7,10 @@ Today I Learned.
 
 [Sleep](./health/sleep.md)
 
+[Elixir](./programming/elixir/elixir.md#2017-04-21)
+
+[Ruby](./programming/ruby/ruby.md#2017-04-21)
+
 
 ### 2017-04-20
 

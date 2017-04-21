@@ -1,3 +1,19 @@
+### 2017-04-21
+
+#### Dig
+
+http://ruby-doc.org/core-2.3.0_preview1/Hash.html#method-i-dig
+
+```ruby
+> hash = {a: [{b: [{c: 0}]}]}
+=> {:a=>[{:b=>[{:c=>0}]}]}
+> hash.dig(:a, 0, :b)
+=> [{:c=>0}]
+> hash.dig(:a, 1, :b)
+=> nil
+```
+
+
 ### 2017-04-18
 
 #### Enumerize

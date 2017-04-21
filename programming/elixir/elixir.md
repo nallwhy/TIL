@@ -1,3 +1,14 @@
+### 2017-04-21
+
+#### Small Data with Elixir
+
+http://blog.plataformatec.com.br/2017/03/small-data-with-elixir
+
+#### Flow
+
+https://github.com/elixir-lang/flow
+
+
 ### 2017-04-18
 
 #### Logging slow Ecto queries: adventures in metaprogramming

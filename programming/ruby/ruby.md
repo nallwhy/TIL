@@ -1,3 +1,22 @@
+### 2017-04-24
+
+#### Call ruby function from command-line
+
+http://stackoverflow.com/questions/10316495/call-ruby-function-from-command-line
+
+`test.rb`
+```ruby
+def test_function
+  "hello"
+end
+```
+
+```bash
+$ ruby -r "./test.rb" -e "puts test_function 'hi'"
+hello
+```
+
+
 ### 2017-04-21
 
 #### Dig

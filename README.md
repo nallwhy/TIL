@@ -9,6 +9,8 @@ Today I Learned.
 
 [Ruby](./programming/ruby/ruby.md#2017-04-24)
 
+[Chrome Extentions](./etc/chrome_extentions.md)
+
 
 ### 2017-04-23
 

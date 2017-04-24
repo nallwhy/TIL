@@ -3,6 +3,13 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-04-23
+
+[Sleep](./health/sleep.md)
+
+[Angular/Scrolling to top after changing route](./programming/angular/scrolling_to_top_after_change_route.md)
+
+
 ### 2017-04-21
 
 [Sleep](./health/sleep.md)
@@ -304,7 +311,7 @@ Today I Learned.
 
 ### 2017-03-16
 
-[CSS](./programming/css/css.md#2017-03-16)
+[CSS](./programming/web/css/css.md#2017-03-16)
 
 [Kotlin](./programming/kotlin/kotlin.md#2017-03-16)
 

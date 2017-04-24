@@ -7,6 +7,8 @@ Today I Learned.
 
 [Sleep](./health/sleep.md)
 
+[Ruby](./programming/ruby/ruby.md#2017-04-24)
+
 
 ### 2017-04-23
 

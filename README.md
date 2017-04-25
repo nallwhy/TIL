@@ -3,6 +3,21 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-04-25
+
+[Sleep](./health/sleep.md)
+
+[Ruby](./programming/ruby/ruby.md#2017-04-25)
+
+[Android](./programming/android/android.md#2017-04-25)
+
+[Elixir](./programming/elixir/elixir.md#2017-04-25)
+
+[Ruby/Parsing command line arguments in a Ruby script](./programming/ruby/parsing_command_line_arguments.md)
+
+[Git/Deleting commits](./programming/git/deleting_commits.md)
+
+
 ### 2017-04-24
 
 [Sleep](./health/sleep.md)

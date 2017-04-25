@@ -1,3 +1,20 @@
+### 2017-04-25
+
+#### Length vs Amount
+
+https://medium.com/@kana_sama/length-vs-amount-37a1c431141a
+
+`Kernel.length()` is much faster than `Enum.count()`, but it's only for lists while `Enum.count()` is for all enumerations.
+
+#### Replace Callbacks with Ecto.Multi
+
+http://blog.danielberkompas.com/2016/09/27/ecto-multi-services.html
+
+#### Simple Scheduler exmpale
+
+https://gist.github.com/danielberkompas/7212ef0ba261e4a19a0b86ec1e109282
+
+
 ### 2017-04-21
 
 #### Small Data with Elixir

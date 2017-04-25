@@ -1,3 +1,19 @@
+### 2017-04-25
+
+#### Oj
+
+A fast JSON parser and Object marshaller.
+
+https://github.com/ohler55/oj
+https://precompile.com/2015/07/25/rails-activesupport-json.html
+
+#### Running command line commands within Ruby script and Getting stdout.
+
+`%x[echo hi]`
+
+http://stackoverflow.com/questions/3159945/running-command-line-commands-within-ruby-script
+
+
 ### 2017-04-24
 
 #### Call ruby function from command-line

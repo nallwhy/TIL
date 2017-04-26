@@ -1,3 +1,12 @@
+### 2017-04-26
+
+#### Build a RESTful JSOn API with Rails 5
+
+https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one
+
+Good tutorial.
+
+
 ### 2017-04-25
 
 #### Oj

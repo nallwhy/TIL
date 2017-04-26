@@ -1,3 +1,10 @@
+### 2017-04-26
+
+#### Zeplin generates XML from text layers from v1.16
+
+https://gallery.mailchimp.com/4a3ed67799b4cd2da57182bc9/images/786e17ef-09ad-41a6-9f46-971b3fd18c67.gif
+
+
 ### 2017-04-12
 
 #### Hamburger Menu Alternatives for Mobile Navigation

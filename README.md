@@ -3,6 +3,17 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-04-26
+
+[Sleep](./health/sleep.md)
+
+[iOS](./programming/ios/ios.md#2017-04-26)
+
+[Ruby](./programming/ruby/ruby.md#2017-04-26)
+
+[Design](./etc/design.md#2017-04-26)
+
+
 ### 2017-04-25
 
 [Sleep](./health/sleep.md)

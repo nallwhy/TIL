@@ -3,6 +3,17 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-04-27
+
+[Sleep](./health/sleep.md)
+
+[AWS/How to Control Access to Amazon Elasticsearch Service Domain](./programming/aws/how_to_control_access_to_amazon_elasticsearch.md)
+
+[AWS](./programming/aws/aws.md#2017-04-27)
+
+[Design](./etc/design/design.md#2017-04-27)
+
+
 ### 2017-04-26
 
 [Sleep](./health/sleep.md)

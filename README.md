@@ -225,15 +225,15 @@ Today I Learned.
 
 [Javascript](./programming/javascript/javascript.md#2017-04-05)
 
-[Install Node.js 6.x to ubuntu](./programming/etc/install_nodejs_6.x_to_ubuntu.md)
+[Linux/Install Node.js 6.x to ubuntu](./programming/linux/install_nodejs_6.x_to_ubuntu.md)
 
-[Install Yarn to ubuntu](./programming/etc/install_yarn_to_ubuntu.md)
+[Linux/Install Yarn to ubuntu](./programming/linux/install_yarn_to_ubuntu.md)
 
 [Invitation lunch/ybrain](./etc/invitation_lunch_170406.md)
 
 [Elixir/IEx shortcuts](./programming/elixir/iex_shortcuts.md)
 
-[How can I search for available packages?](./programming/etc/apt_search_available_packages.md)
+[Linux/How can I search for available packages?](./programming/linux/apt_search_available_packages.md)
 
 
 ### 2017-04-04
@@ -270,7 +270,7 @@ Today I Learned.
 
 [Javascript/Converting a callback to a promise](./programming/javascript/converting_callback_to_promise.md)
 
-[Clone a specific Git branch](./programming/etc/clone_specific_git_branch.md)
+[Git/Clone a specific Git branch](./programming/git/clone_specific_git_branch.md)
 
 
 ### 2017-03-29
@@ -305,7 +305,7 @@ Today I Learned.
 
 [AWS Codebuild Tutorial](./programming/aws/codebuild_tutorial.md)
 
-[Install Postgresql to Ubuntu](./programming/etc/install_postgresql_to_ubuntu.md)
+[Linux/Install Postgresql to Ubuntu](./programming/linux/install_postgresql_to_ubuntu.md)
 
 
 ### 2017-03-24
@@ -343,7 +343,7 @@ Today I Learned.
 
 [Workout](./health/workout.md)
 
-[apt-get -y](./programming/etc/apt-get_with_yes.md)
+[Linux/apt-get -y](./programming/linux/apt-get_with_yes.md)
 
 [Elixir Deployment](./programming/elixir/deployment.md)
 

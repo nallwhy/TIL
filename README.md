@@ -3,6 +3,19 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-04-28
+
+[Sleep](./health/sleep.md)
+
+[Docker/Running bash on docker container changing entrypoint](./programming/docker/running_bash_on_docker_container_changing_entrypoint.md)
+
+[Kotlin](./programming/kotlin/kotlin.md#2017-04-28)
+
+[Git/Autocorrect](./programming/autocorrect.md)
+
+[Electron](./programming/electron/electron.md#2017-04-28)
+
+
 ### 2017-04-27
 
 [Sleep](./health/sleep.md)

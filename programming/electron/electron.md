@@ -1,3 +1,10 @@
+### 2017-04-28
+
+#### Essential Electron
+
+http://jlord.us/essential-electron/
+
+
 ### 2017-03-28
 
 #### Beyond The Browser: From Web Apps To Desktop Apps

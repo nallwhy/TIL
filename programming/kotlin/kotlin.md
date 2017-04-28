@@ -1,3 +1,18 @@
+### 2017-04-28
+
+#### Kotlin 1.1 is also for Android Developers
+
+https://blog.jetbrains.com/kotlin/2017/04/kotlin-1-1-is-also-for-android-developers/
+
+* Type aliases
+* Inheritance of data classes
+* Destructuring inside lambdas
+* Local delegated properties
+* Using underscore to ignore unused vriables on lambdas
+* Coroutines
+* @JvmOverloads
+
+
 ### 2017-04-18
 
 #### JUnit 5: Kotlin

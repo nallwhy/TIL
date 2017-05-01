@@ -24,16 +24,16 @@ I had wide range of experience at 2015, and now I want to be a specialist not a 
 
 **Skills**
 
-- Web: 1 years
+- Web: 1.5 years
 
-  Front-end - Angular2, Responsive, AngularJS, HTML, Javascript, CoffeeScript, SCSS, HAML, UnderscoreJS\\
-  Back-end - Ruby on Rails, AWS, Heroku, RESTful, Facebook login, Paypal payment, Firebase
+  Front-end - Angular, Responsive, HTML, Javascript, CoffeeScript, SCSS, HAML, UnderscoreJS\\
+  Back-end - Elixir, Serverless, Ruby on Rails, AWS, Heroku, RESTful, Facebook login, Paypal payment, Firebase
 
 - Android: 7 months
   
-  Kotlin, MVVM, RxJava, Realm, Facebook SDK, AWS SDK, Paypal SDK
+  Kotlin, MVVM, RxJava, Realm, Dagger, Facebook SDK, AWS SDK, Paypal SDK
 
-- iOS: 2 months
+- iOS: 4 months
 
   MVVM, Protocol-oriented programming, Swift, ReactiveKit, Alamofire
 
@@ -41,17 +41,19 @@ I had wide range of experience at 2015, and now I want to be a specialist not a 
 
   C++, C#, OpenGL, Geometry, Poco
 
+- Etc
+
+  Docker, Electron
+
 **Languages**
 
-Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript, Swift
+Elixir, Ruby, TypeScript, Kotlin, Swift, Javascript, C++, C#, Java, CoffeeScript
 
 
 ### **Also, I'm interested in**
 
 - React
 - React Native
-- Docker
-- Electron
 - Elm
 
 
@@ -75,8 +77,8 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript, Swift
 
     Improvement of mesh instance (shared mesh)
 
-  ![3dsprint_connect](/images/3dsprint_connect.png)
-  ![3dsprint_ces](/images/3dsprint_ces.jpeg)
+  ![3dsprint_connect](./images/3dsprint_connect.png)
+  ![3dsprint_ces](./images/3dsprint_ces.jpeg)
 
 - [**3DSystems onDemand**](http://qpe-staging.herokuapp.com/home) (6 months)
 
@@ -84,14 +86,14 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript, Swift
   Connecting 3D viewer and its commands\\
   Cross browsing
 
-  ![odm_main](/images/odm_main.png)
-  ![odm_3dview](/images/odm_3dview.png)
+  ![odm_main](./images/odm_main.png)
+  ![odm_3dview](./images/odm_3dview.png)
 
 - [**3DSPRINT Cloud**](http://www.3dsprint.com/) (4 months)
 
   Front-end
 
-  ![3dsprint_cloud](/images/3dsprint_cloud.png)
+  ![3dsprint_cloud](./images/3dsprint_cloud.png)
 
 - **Stomit** (1 month)
 
@@ -104,39 +106,52 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript, Swift
   [Android native application with Kotlin](https://play.google.com/store/apps/details?id=kr.co.cultrip.www.cultrip)\\
   Restful API server in Rails
 
-  ![cultrip_0](/images/cultrip_0.png){:width="40%"}
-  ![cultrip_1](/images/cultrip_1.png){:width="40%"}
+  ![cultrip_0](./images/cultrip_0.png){:width="40%"}
+  ![cultrip_1](./images/cultrip_1.png){:width="40%"}
 
 - **OperaCoffee iOS App** (2 months)
 
   iOS native application with Swift\\
   MVVM, Protocol-oriendted programming
 
-  ![operacoffee_ios_app_0](/images/operacoffee_ios_app_0.png){:width="40%"}
-  ![operacoffee_ios_app_1](/images/operacoffee_ios_app_1.png){:width="40%"}
+  ![operacoffee_ios_app_0](./images/operacoffee_ios_app_0.png){:width="40%"}
+  ![operacoffee_ios_app_1](./images/operacoffee_ios_app_1.png){:width="40%"}
 
 - **OperaCoffee Back Office** (2 months)
 
   Angular2 + Electron cross platform desktop app.\\
   Mobile first responsive web design.
 
-  ![operacoffee_back_office_0](/images/operacoffee_back_office_0.png){:width="65%"}
-  ![operacoffee_back_office_1](/images/operacoffee_back_office_1.png){:width="25%"}
+  ![operacoffee_back_office_0](./images/operacoffee_back_office_0.png){:width="65%"}
+  ![operacoffee_back_office_1](./images/operacoffee_back_office_1.png){:width="25%"}
 
 ### **Career**
 
 <div class="career">
   <div class="board-flex-container">
     <div class="board-flex-content">
-      <a class="board-title" href="http://operaproject.wixsite.com/home" target="_blank"><p><b>OperaCoffee</b></p></a>
+      <a class="board-title" href="https://skelterlabs.com/" target="_blank"><p><b>Skelter Labs</b></p></a>
       <div class="content-detail">Software Engineer</div>
-      <p>2016.05. - </p>
+      <p>2017.01. - </p>
+      <span>Elixir back-end</span>
+      <br />
+      <span>DevOps</span>
+    </div>
+    <div class="board-flex-image">
+      <img src="./images/skelter_labs_logo.png"/>
+    </div>
+  </div>
+  <div class="board-flex-container">
+    <div class="board-flex-content">
+      <a class="board-title" href="http://operaproject.wixsite.com/home" target="_blank"><p><b>OperaCoffee</b></p></a>
+      <div class="content-detail">CTO</div>
+      <p>2016.05. - 2017.01.</p>
       <span>iOS Application</span>
       <br />
       <span>Back Office</span>
     </div>
     <div class="board-flex-image">
-      <img src="/images/operacoffee_logo.png"/>
+      <img src="./images/operacoffee_logo.png"/>
     </div>
   </div>
   <div class="board-flex-container">
@@ -147,7 +162,7 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript, Swift
       <span>Android Application Maintenance</span>
     </div>
     <div class="board-flex-image">
-      <img src="/images/1day1song_logo.png"/>
+      <img src="./images/1day1song_logo.png"/>
     </div>
   </div>
   <div class="board-flex-container">
@@ -157,7 +172,7 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript, Swift
       <p>2016.01. - 2016.07.</p>
     </div>
     <div class="board-flex-image">
-      <img src="/images/cultrip_logo.png"/>
+      <img src="./images/cultrip_logo.png"/>
     </div>
   </div>
   <div class="board-flex-container">
@@ -170,7 +185,7 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript, Swift
       <span>Print Core Team (2013 - 2015)</span>
     </div>
     <div class="board-flex-image">
-      <img src="/images/3dsystems.jpg"/>
+      <img src="./images/3dsystems.jpg"/>
     </div>
   </div>
 </div>
@@ -197,7 +212,7 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript, Swift
       <div class="content-detail"><a href="https://vimeo.com/22432532" target="_blank">SoundVisualizer: Human</a></div>
     </div>
     <div class="board-flex-image">
-      <img src="http://www.snu.ac.kr/images/common/img/img01_mark_ab0102.gif"/>
+      <img src="http://www.snu.ac.kr./images/common/img/img01_mark_ab0102.gif"/>
     </div>
   </div>
 
@@ -216,7 +231,7 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript, Swift
       <div class="content-detail">Band 'Zither' (2007-2011)</div>
     </div>
     <div class="board-flex-image">
-      <img src="http://www.snu.ac.kr/images/common/img/img01_mark_ab0102.gif"/>
+      <img src="http://www.snu.ac.kr./images/common/img/img01_mark_ab0102.gif"/>
     </div>
   </div>
 
@@ -227,7 +242,7 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript, Swift
       <div>2004 - 2007</div>
     </div>
     <div class="board-flex-image">
-      <img src="/images/gafl.png"/>
+      <img src="./images/gafl.png"/>
     </div>
   </div>
 </div>
@@ -237,42 +252,76 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript, Swift
 <div class="operation" class="card-flex-container">
   <div class="card-flex-item">
     <a href="https://www.facebook.com/groups/rxkorea" target="_blank">
-      <img src="/images/rxkorea_logo.png">
+      <img src="./images/rxkorea_logo.png">
       <p>RxKorea</p>
     </a>
   </div>
   <div class="card-flex-item">
     <a href="https://www.facebook.com/groups/designersndevelopers" target="_blank">
-      <img src="/images/dnd_logo.png">
+      <img src="./images/dnd_logo.png">
       <p>DnD</p>
     </a>
   </div>
 </div>
+
+### **Open Source Contribution**
+
+#### [Android Spinnerwhell](https://github.com/ai212983/android-spinnerwheel)
+
+* [Add AbstractWheelCustomAdapter and setFriction](https://github.com/ai212983/android-spinnerwheel/pull/66)
+
+#### [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+
+* [[UnderScore] Update definitions of findIndex/findLastIndex](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/9711)
+* [[Underscore] Fix indentation](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/9765)
+
+#### [CNPPopupController](https://github.com/carsonperrotti/CNPPopupController)
+
+* [Fix Swift project example](https://github.com/carsonperrotti/CNPPopupController/pull/55)
+
+#### [Git-it](https://github.com/jlord/git-it-electron)
+
+* [Korean translation](https://github.com/jlord/git-it-electron/pull/159)
+
+#### [Isometric Contributions](https://github.com/jasonlong/isometric-contributions)
+
+* [Fix for new github](https://github.com/jasonlong/isometric-contributions/pull/56)
+* [Show isometric chart after changing years](https://github.com/jasonlong/isometric-contributions/pull/59)
+
+#### [Zombie Microservices Workshop: Lab Guide](https://github.com/channy/aws-lambda-zombie-workshop)
+
+* [Fix some old materials and typo](https://github.com/channy/aws-lambda-zombie-workshop/pull/1)
+
+#### [Summernote Cleaner](https://github.com/StudioJunkyard/summernote-cleaner)
+
+* [Don't show alert if notTime is less or equal to 0 ](https://github.com/StudioJunkyard/summernote-cleaner/pull/14)
+* [Fix a bug (Pasting duplicates old content)](https://github.com/StudioJunkyard/summernote-cleaner/pull/15)
+
 
 ### **Activity**
 
 <div class="activity" class="card-flex-container">
   <div class="card-flex-item">
     <a href="https://github.com/nallwhy" target="_blank">
-      <img src="/images/github_logo.png" />
+      <img src="./images/github_logo.png" />
       <p>Open Source</p>
     </a>
   </div>
   <div class="card-flex-item">
     <a href="http://blog.weirdx.io/" target="_blank">
-      <img src="/images/weirdmeetup_logo.png" />
+      <img src="./images/weirdmeetup_logo.png" />
       <p>Weirdmeetup</p>
     </a>
   </div>
   <div class="card-flex-item">
     <a href="http://kotlin.kr/" target="_blank">
-      <img src="/images/kotlinkorea_logo.png" />
+      <img src="./images/kotlinkorea_logo.png" />
       <p>Kotlin Korea</p>
     </a>
   </div>
   <div class="card-flex-item">
     <a href="https://www.facebook.com/groups/1581001912175827/" target="_blank">
-      <img src="/images/appdev_logo.png" />
+      <img src="./images/appdev_logo.png" />
       <p>앱개발 고픈 사람들의 모임</p>
     </a>
   </div>
@@ -284,7 +333,7 @@ Ruby, Javascript, CoffeeScript, Kotlin, C++, C#, Java, TypeScript, Swift
   </div>
   <div class="card-flex-item">
     <a href="http://json.postype.com/" target="_blank">
-      <img src="/images/maytree.png">
+      <img src="./images/maytree.png">
       <p>Blogging</p>
     </a>
   </div>

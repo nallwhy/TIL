@@ -3,6 +3,43 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-05-01
+
+[Sleep](./health/sleep.md)
+
+[Web](./programming/web/web.md#2017-05-01)
+
+[Update Resume](./resume/resume.md)
+
+[Angular](./programming/angular/angular.md#2017-05-01)
+
+[Database/Fixing `psql: could not connect to server` Error](./programming/database/fix_psql_could_not_connect_to_server_error.md)
+
+[Angular/Using `contenteditable`](./programming/angular/using_contenteditable.md)
+
+[Angular/How to manage subscriptions](./programming/angular/how_to_manage_subscriptions.md)
+
+[Signs of Lying](./etc/videos.md#2017-05-01)
+
+[yarn upgrade-interactive](./etc/yarn_upgrade-interactive.md)
+
+[ZenHub](./git/zenhub.md)
+
+
+### 2017-04-30
+
+[Sleep](./health/sleep.md)
+
+[Ruby](./programming/ruby/ruby.md#2017-04-30)
+
+
+### 2017-04-29
+
+[Sleep](./health/sleep.md)
+
+[Electron](./programming/electron/electron.md#2017-04-29)
+
+
 ### 2017-04-28
 
 [Sleep](./health/sleep.md)
@@ -108,7 +145,7 @@ Today I Learned.
 
 [Elixir/Hound](./programming/elixir/hound.md)
 
-[Ted/This app makes it fun to pick up litter](./etc/ted.md#2017-04-18)
+[Ted/This app makes it fun to pick up litter](./etc/videos.md#2017-04-18)
 
 
 ### 2017-04-17

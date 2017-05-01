@@ -1,3 +1,14 @@
+### 2017-04-30
+
+#### Converting number to string with comma on Rails
+
+http://stackoverflow.com/questions/1078347/is-there-a-rails-trick-to-adding-commas-to-large-numbers
+
+```ruby
+123456789.to_s(:delimited) # => "123,456,789"
+```
+
+
 ### 2017-04-26
 
 #### Build a RESTful JSOn API with Rails 5

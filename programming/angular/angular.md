@@ -1,3 +1,46 @@
+### 2017-05-01
+
+#### Angular Augury
+
+https://augury.angular.io/
+
+A Google Chrome Dev Tools extension for debugging Angular 2 applications.
+
+#### Angular2 Routerlink: add query parameters
+
+http://stackoverflow.com/questions/35226245/angular2-routerlink-add-query-parameters
+
+```html
+<a [routerLink]="['/users']" [queryParams]="{ page: 1 }">next page</a>
+```
+
+#### Pagination for Angular (ngx-pagination)
+
+https://github.com/michaelbromley/ngx-pagination
+
+#### Angular Infinite Scroll (ngx-infinite-scroll)
+
+https://github.com/orizens/ngx-infinite-scroll
+
+#### Use pipes in services
+
+http://stackoverflow.com/questions/35144821/angular-2-use-pipes-in-services?answertab=active#tab-top
+
+```typescript
+import { DatePipe } from '@angular/common';
+class MyService {
+  constructor(private datePipe: DatePipe) {}
+
+  test() {
+    this.datePipe.transform(new Date(), 'yyyyMMdd');
+  }
+}
+
+// app.module.ts
+providers: [DatePipe, ...]
+```
+
+
 ### 2017-04-18
 
 #### Reactive Forms in Angular: Creating a Custom Validator

@@ -1,3 +1,10 @@
+### 2017-04-29
+
+#### Electron Forge
+
+https://beta.electronforge.io/templates
+
+
 ### 2017-04-28
 
 #### Essential Electron

@@ -1,3 +1,16 @@
+### 2017-05-02
+
+#### Kotlin Dependency Injection with the Reader Monad
+
+https://medium.com/@JorgeCastilloPr/kotlin-dependency-injection-with-the-reader-monad-7d52f94a482e
+
+https://github.com/JorgeCastilloPrz/KotlinAndroidArchitecture
+
+#### Kodein
+
+https://github.com/SalomonBrys/Kodein
+
+
 ### 2017-04-28
 
 #### Kotlin 1.1 is also for Android Developers

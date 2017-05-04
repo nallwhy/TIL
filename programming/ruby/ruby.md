@@ -1,3 +1,26 @@
+### 2017-05-02
+
+#### contracts.ruby
+
+https://github.com/egonSchiele/contracts.ruby
+
+#### Improve your Ruby application's memory usage and performance with jemalloc
+
+https://www.levups.com/en/blog/2017/optimize_ruby_memory_usage_jemalloc_heroku_scalingo.html
+
+#### Slim down hefty Rails controllers AND models, using domain model events
+
+https://www.rubytapas.com/2017/04/11/skinny-controller-domain-model-events/
+
+#### Zen Rails Security Checklist
+
+https://github.com/brunofacca/zen-rails-security-checklist
+
+#### R14 - Memory Quota Exceeded in Ruby (MRI)
+
+https://devcenter.heroku.com/articles/ruby-memory-use
+
+
 ### 2017-04-30
 
 #### Converting number to string with comma on Rails

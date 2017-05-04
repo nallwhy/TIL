@@ -9,6 +9,22 @@ Today I Learned.
 
 [Web/Selecting photo with input](./programming/web/selecting_photo_with_input.md)
 
+[Design](./etc/design/design.md#2017-05-02)
+
+[Elixir](./programming/elixir/elixir.md#2017-05-02)
+
+[Kotlin/Kotlin Functors, Applicatives, And Monads in Pictures](./programming/kotlin/kotlin_functors_applicatives_monads.md)
+
+[Kotlin](./programming/kotlin/kotlin.md#2017-05-02)
+
+[Ruby](./programming/ruby/ruby.md#2017-05-02)
+
+[Android](./programming/android/android.md#2017-05-02)
+
+[Tell, Don't Ask](./programming/etc/tell_don't_ask.md)
+
+[Linux/systemd](./programming/linux/systemd.md)
+
 
 ### 2017-05-01
 

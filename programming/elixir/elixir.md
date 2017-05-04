@@ -1,3 +1,10 @@
+### 2017-05-02
+
+#### Elixir Project Generator
+
+https://pragdave.me/blog/2017/04/18/elixir-project-generator.html
+
+
 ### 2017-04-25
 
 #### Length vs Amount

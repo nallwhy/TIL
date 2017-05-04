@@ -1,3 +1,18 @@
+### 2017-05-02
+
+#### MVC vs. MVP vs. MVVM on Android
+
+https://news.realm.io/news/eric-maxwell-mvc-mvp-and-mvvm-on-android/
+
+#### Fragments: The Solution to (and Cause of) All of Android's Problems
+
+https://news.realm.io/news/michael-yotive-state-of-fragments-2017
+
+#### Dependency Injection in Android with Dagger 2
+
+https://www.raywenderlich.com/146804/dependency-injection-dagger-2
+
+
 ### 2017-04-25
 
 #### AppIntro

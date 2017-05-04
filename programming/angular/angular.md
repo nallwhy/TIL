@@ -1,3 +1,19 @@
+### 2017-05-03
+
+#### Sidenav and fixed elements
+
+https://github.com/angular/material2/issues/3031
+
+`position: fixed` elements inside `transform: translate3d()` doesn't work.
+
+
+### 2017-05-02
+
+#### Angular Language Service
+
+http://brianflove.com/2017/04/11/angular-language-service/
+
+
 ### 2017-05-01
 
 #### Angular Augury

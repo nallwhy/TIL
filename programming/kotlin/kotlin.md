@@ -1,3 +1,44 @@
+### 2017-05-08
+
+#### Kapsule
+
+https://github.com/traversals/kapsule  
+https://blog.gouline.net/kapsule-minimalist-dependency-injection-for-kotlin-ed3e344d60ed
+
+Minimalist dependency injection library for Kotlin
+
+#### How to remove all !! from your Kotlin code
+
+https://medium.com/@david.vavra/how-to-remove-all-from-your-kotlin-code-87dc2c9767fb
+
+Use build-in functions requireNotNull or checkNotNull with accompanied exception message for easy debugging.
+
+```kotlin
+uploadPhoto(requireNotNull(intent.getStringExtra("PHOTO_URL"), { "Activity parameter 'PHOTO_URL' is missing" }))
+```
+
+#### KUnidirectional
+
+https://speakerdeck.com/cesarvaliente/unidirectional-data-flow-on-android-using-kotlin
+
+https://github.com/CesarValiente/KUnidirectional
+
+Unidirectional data flow architecture on Android using Kotlin.
+
+#### How to mock final classes on Kotlin using Mockito 2
+
+https://antonioleiva.com/mockito-2-kotlin/
+
+`test/resources/mockito-extensions/org.mockito.plugins.MockMaker`
+```
+mock-maker-inline
+```
+
+#### Tail recursion and how to use it in Kotlin
+
+https://medium.com/@JorgeCastilloPr/tail-recursion-and-how-to-use-it-in-kotlin-97353993e17f
+
+
 ### 2017-05-02
 
 #### Kotlin Dependency Injection with the Reader Monad

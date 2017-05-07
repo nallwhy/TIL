@@ -3,6 +3,28 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-05-07
+
+[Sleep](./health/sleep.md)
+
+[Android](./programming/android/android.md#2017-05-07)
+
+[Web](./programming/web/web.md#2017-05-07)
+
+[Kotlin](./programming/kotlin/kotlin.md#2017-05-07)
+
+
+### 2017-05-05
+
+[Sleep](./health/sleep.md)
+
+[Android](./programming/android/android.md#2017-05-05)
+
+[Video/How to learn any language in six months](./etc/video.md#2017-05-05)
+
+[Javascript](./programming/javascript/javascript.md#2017-05-05)
+
+
 ### 2017-05-03
 
 [Sleep](./health/sleep.md)

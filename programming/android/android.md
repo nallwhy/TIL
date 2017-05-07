@@ -1,3 +1,21 @@
+### 2017-05-07
+
+#### UltimateAndroidReference
+
+https://github.com/aritraroy/UltimateAndroidReference
+
+
+### 2017-05-05
+
+#### Interfaces for presenters in MVP are a waste of time!
+
+http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/
+
+#### Introduction to Automated Android Testing
+
+https://riggaroo.co.za/introduction-automated-android-testing/
+
+
 ### 2017-05-02
 
 #### MVC vs. MVP vs. MVVM on Android

@@ -1,8 +1,36 @@
+### 2017-05-05
+
+#### How to learn any language in six months
+
+https://www.youtube.com/watch?v=y1f-YHw1uNs
+
+##### 5 Principles
+
+Attention - Meaning - Relevance - Memory
+
+* Focus on language content that is relevant to you
+We master tools by using tools. We learn tools facstest when they are relevant to us
+* Use your new language as a tool to communicate from day 1 as the kid does
+* When you first understand the message, you will unconsciously acquire the language. Comprehension!
+* Physiological Training
+* Phycho-physiological state matters
+
+##### 7 Actions
+
+* Listen a lot
+* Focus on getting the meaning first
+* Start mixing
+* Focus on core. 3000 words.
+* Get a language parent
+* Copy the face
+* "Direct connect" to mental images
+
+
 ### 2017-05-01
 
 #### Signs of Lying
 
-https://www.youtube.com/watch?v=KrhsgPMmvYM&feature=youtu.be
+https://www.youtube.com/watch?v=KrhsgPMmvYM
 
 * Checking others reaction
 * 고개 살짝 꺾기 (Bill clinton nod?)

@@ -1,3 +1,26 @@
+### 2017-05-05
+
+#### Administrate
+
+https://github.com/thoughtbot/administrate
+
+#### Rails DB
+
+https://github.com/igorkasyanchuk/rails_db
+
+Rails Database Viewer and SQL Query Runner
+
+#### Rails ERD
+
+https://github.com/voormedia/rails-erd
+
+Generating a diagram based on your application's Active Record models
+
+#### Postgres tips for Rails developers
+
+https://www.citusdata.com/blog/2017/04/28/postgres-tips-for-rails/
+
+
 ### 2017-05-02
 
 #### contracts.ruby

@@ -40,3 +40,24 @@ https://www.rubytapas.com/2017/04/11/skinny-controller-domain-model-events/
 #### Zen Rails Security Checklist
 
 https://github.com/brunofacca/zen-rails-security-checklist
+
+
+#### Administrate
+
+https://github.com/thoughtbot/administrate
+
+#### Rails DB
+
+https://github.com/igorkasyanchuk/rails_db
+
+Rails Database Viewer and SQL Query Runner
+
+#### Rails ERD
+
+https://github.com/voormedia/rails-erd
+
+Generating a diagram based on your application's Active Record models
+
+#### Postgres tips for Rails developers
+
+https://www.citusdata.com/blog/2017/04/28/postgres-tips-for-rails/

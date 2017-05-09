@@ -1,3 +1,38 @@
+### 2017-05-09
+
+#### Rails 5.1 has introduced Date#all_day helper
+
+http://blog.bigbinary.com/2017/04/24/rails-5-1-has-introduced-date-all_day-helper.html
+
+```ruby
+# Old
+User.where(created_at: Date.today.beginning_of_day..Date.today.end_of_day)
+
+# New
+User.where(created_at: Date.today.all_day)
+```
+
+##### Rob Biedenharn's comment
+
+The only problem with this is actually a problem with BETWEEN. If you have a timestamp that is 2017-04-09 23:59:59.5 UTC (just a half second before the day changes), then neither of these will capture that timestamp:
+
+```
+>> Date.today.all_day
+
+=> Sun, 09 Apr 2017 00:00:00 UTC +00:00..Sun, 09 Apr 2017 23:59:59 UTC +00:00
+
+>> Date.tomorrow.all_day
+
+=> Mon, 10 Apr 2017 00:00:00 UTC +00:00..Mon, 10 Apr 2017 23:59:59 UTC +00:00
+```
+
+if `d` is some date, then the proper range is:
+
+`d ... (d+1)` (note the range-end-excluding syntax) giving:
+
+`column >= d AND column < (d+1)`
+
+
 ### 2017-05-05
 
 #### Administrate

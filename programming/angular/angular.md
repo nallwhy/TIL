@@ -1,3 +1,14 @@
+### 2017-05-09
+
+#### Build a simple Emoji Chrome Extension with Angular CLI
+
+https://medium.com/@_JoshSommer/build-a-simple-emoji-chrome-extension-with-angular-cli-84937a1ca640
+
+#### Preloading in Angular
+
+https://alligator.io/angular/preloading
+
+
 ### 2017-05-03
 
 #### Sidenav and fixed elements

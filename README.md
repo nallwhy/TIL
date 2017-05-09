@@ -3,6 +3,19 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-05-09
+
+[Elixir](./programming/elixir/elixir.md#2017-05-09)
+
+[Android](./programming/android/android.md#2017-05-09)
+
+[Heroku/Fixing `node-sass` error on Heroku](./programming/heroku/fixing_node-sass_error_on_heroku.md)
+
+[Kotlin](./programming/kotlin/kotlin.md#2017-05-09)
+
+[Angular](./programming/angular/angular.md#2017-05-09)
+
+
 ### 2017-05-07
 
 [Sleep](./health/sleep.md)

@@ -1,3 +1,106 @@
+### 2017-05-09
+
+#### 10 Killer Elixir Tips
+
+https://medium.com/blackode/10-killer-elixir-tips-2a9be1bec9be
+
+##### Multiple [ OR ]
+
+```elixir
+# Regular Approach
+find = fn(x) when x>10 or x<5 or x==7 -> x end 
+
+# Our Hack
+hell = fn(x) when true in [x>10,x<5,x==7] -> x end 
+```
+
+##### Thinking `||` as `Kernel.||`
+
+```elixir
+# Bad
+result = :input
+|> do_something
+|> do_another_thing
+
+result = (result || :default_output)
+|> do_something_else
+
+# Good
+result = :input
+|> do_something
+|> do_another_thing
+|> Kernel.||(:default_output)  #<-- This line
+|> do_something_else
+```
+
+##### Recompiling Project
+
+```
+$ iex -S mix
+iex> recompile() 
+```
+
+#### Scout
+
+https://scoutapp.com/
+
+Performance insights for Ruby & Elixir apps.
+
+#### FunWithFlags
+
+https://github.com/tompave/fun_with_flags
+
+#### Que
+
+https://github.com/sheharyarn/que
+
+#### The building blocks of a poker application
+
+https://medium.com/carwow-product-engineering/the-building-blocks-of-a-poker-application-6042357a58c1
+
+#### Ravenx
+
+https://medium.com/acutario/sending-notifications-in-elixir-with-ravenx-1f2502a1f272  
+https://github.com/acutario/ravenx
+
+Notification dispatch library for Elixir applications.
+
+#### How to use Elixir’s GenStage.Flow for image resizing
+
+https://medium.com/carwow-product-engineering/how-to-use-elixirs-genstage-flow-for-image-resizing-ec3f7343f641
+
+#### Phoenix Presence for social networks
+
+https://medium.com/@alvinlindstam/phoenix-presence-for-social-networks-5fb67143f0ad
+
+#### Weave
+
+https://www.rawkode.io/2017/04/introducing-weave-for-elixir/  
+https://github.com/GT8Online/weave
+
+A library that makes it possible to load configuration, especially secrets, from disk (Ala Docker Swarm / Kubernetes) on start-up.
+
+#### Trans
+
+https://github.com/belaustegui/trans
+
+A library that manage and query translations embedded into schemas and removes the necessity of maintaing extra tables only for translation storage.
+
+#### PHOENIX 1.3 AND GRAPHQL WITH ABSINTHE
+
+https://seanclayton.me/post/phoenix-1-3-and-graphql-with-absinthe
+
+#### Flub
+
+https://github.com/meyercm/flub
+
+Flub does Pub. Flub does Sub. Flub does PubSub, bub.
+
+#### Phoenix and Elm, a real use case
+
+http://codeloveandboards.com/blog/2017/02/02/phoenix-and-elm-a-real-use-case-pt-1/
+
+
 ### 2017-05-02
 
 #### Elixir Project Generator

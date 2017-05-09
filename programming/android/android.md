@@ -1,3 +1,10 @@
+### 2017-05-09
+
+#### RxLoader
+
+https://github.com/kmdupr33/RxLoader
+
+
 ### 2017-05-07
 
 #### UltimateAndroidReference

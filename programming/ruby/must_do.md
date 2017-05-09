@@ -61,3 +61,10 @@ Generating a diagram based on your application's Active Record models
 #### Postgres tips for Rails developers
 
 https://www.citusdata.com/blog/2017/04/28/postgres-tips-for-rails/
+
+#### Scout
+
+https://scoutapp.com/
+
+Performance insights for Ruby & Elixir apps.
+

@@ -1,3 +1,14 @@
+### 2017-05-04
+
+#### Object Oriented Tricks: #4 Starter Pattern -Android Edition
+
+https://hackernoon.com/object-oriented-tricks-4-starter-pattern-android-edition-1844e1a8522d
+
+#### Hidden Gems of Android O
+
+https://medium.com/@ianhlake/hidden-gems-of-android-o-7def63136629
+
+
 ### 2017-05-02
 
 #### MVC vs. MVP vs. MVVM on Android

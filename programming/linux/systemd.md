@@ -130,6 +130,8 @@ ex) Run erlang release and let it automatically run after boot.
 
 #### Creating a Service
 
+Follow https://www.digitalocean.com/community/tutorials/understanding-systemd-units-and-unit-files.
+
 `/lib/systemd/system/myapp.service`
 ```
 [Unit]
@@ -149,7 +151,7 @@ RestartSec=5
 WantedBy=multi-user.target
 ```
 
-#### Reloading daemons
+#### Reloading systemd
 
 ```bash
 $ sudo systemd daemon-reload
@@ -173,4 +175,6 @@ Reference:
 https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal  
 https://www.digitalocean.com/community/tutorials/understanding-systemd-units-and-unit-files  
 https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs  
-https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/System_Administrators_Guide/chap-Managing_Services_with_systemd.html
+https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/System_Administrators_Guide/chap-Managing_Services_with_systemd.html  
+https://wiki.archlinux.org/index.php/systemd  
+https://wiki.ubuntu.com/SystemdForUpstartUsers

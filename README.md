@@ -3,6 +3,16 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-05-04
+
+[Sleep](./health/sleep.md)
+
+[English](./etc/english.md)
+
+[Linux/How to disable SSH host key checking for all hosts](./programming/linux/how_to_disable_ssh_host_key_checking_for_all_hosts.md)
+
+[Android](./programming/android/android.md#2017-05-04)
+
 ### 2017-05-03
 
 [Sleep](./health/sleep.md)

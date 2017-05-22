@@ -3,6 +3,11 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-05-14
+
+[Kotlin](./programming/kotlin/kotlin.md#2017-05-14)
+
+
 ### 2017-05-09
 
 [Elixir](./programming/elixir/elixir.md#2017-05-09)

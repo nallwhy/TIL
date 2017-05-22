@@ -1,3 +1,12 @@
+### 2017-05-11
+
+#### RailsPanel
+
+https://github.com/dejan/rails_panel
+
+Chrome extension for Rails development that will end your tailing of development.log.
+
+
 ### 2017-05-09
 
 #### Rails 5.1 has introduced Date#all_day helper

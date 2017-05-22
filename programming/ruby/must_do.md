@@ -46,11 +46,17 @@ https://github.com/brunofacca/zen-rails-security-checklist
 
 https://github.com/thoughtbot/administrate
 
+#### ActiveAdmin
+
+https://activeadmin.info/
+
+
 #### Rails DB
 
 https://github.com/igorkasyanchuk/rails_db
 
 Rails Database Viewer and SQL Query Runner
+
 
 #### Rails ERD
 
@@ -58,9 +64,11 @@ https://github.com/voormedia/rails-erd
 
 Generating a diagram based on your application's Active Record models
 
+
 #### Postgres tips for Rails developers
 
 https://www.citusdata.com/blog/2017/04/28/postgres-tips-for-rails/
+
 
 #### Scout
 
@@ -68,3 +76,9 @@ https://scoutapp.com/
 
 Performance insights for Ruby & Elixir apps.
 
+
+#### RailsPanel
+
+https://github.com/dejan/rails_panel
+
+Chrome extension for Rails development that will end your tailing of development.log.

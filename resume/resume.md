@@ -294,8 +294,12 @@ Elixir, Ruby, TypeScript, Kotlin, Swift, Javascript, C++, C#, Java, CoffeeScript
 
 #### [Summernote Cleaner](https://github.com/StudioJunkyard/summernote-cleaner)
 
-* [Don't show alert if notTime is less or equal to 0 ](https://github.com/StudioJunkyard/summernote-cleaner/pull/14)
+* [Don't show alert if notTime is less or equal to 0](https://github.com/StudioJunkyard/summernote-cleaner/pull/14)
 * [Fix a bug (Pasting duplicates old content)](https://github.com/StudioJunkyard/summernote-cleaner/pull/15)
+
+#### [Material Design for Angular](https://github.com/angular/material2)
+
+* [feat(dialog): add result to MdDialogClose directive](https://github.com/angular/material2/pull/4332)
 
 
 ### **Activity**

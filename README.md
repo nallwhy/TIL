@@ -3,6 +3,39 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-05-26
+
+[Design](./etc/design/design.md#2017-05-26)
+
+
+### 2017-05-17
+
+[Elixir](./programming/elixir/elixir.md#2017-05-17)
+
+[Docker](./programming/docker/remove_all_exited_containers.md)
+
+
+### 2017-05-16
+
+[Substring on bash](./programming/etc/substring_on_bash.md)
+
+[Regex not end with](./programming/etc/regex_not_end_with.md)
+
+
+### 2017-05-12
+
+[Sleep](./health/sleep.md)
+
+[Regex entire match](./programming/etc/regex_entire_match.md)
+
+
+### 2017-05-11
+
+[Sleep](./health/sleep.md)
+
+[Ruby/How to get home directory on Ruby](./programming/ruby/how_to_get_home_directory_on_ruby.md)
+
+
 ### 2017-05-09
 
 [Elixir](./programming/elixir/elixir.md#2017-05-09)

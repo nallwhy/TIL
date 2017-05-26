@@ -1,3 +1,14 @@
+### 2017-05-17
+
+#### Thinking in Ecto - schemas and changesets
+
+http://cultofmetatron.io/2017/04/22/thinking-in-ecto---schemas-and-changesets
+
+#### Using GenStage for a Batching Pipeline
+
+https://alexgaribay.com/2017/04/25/using-genstage-for-a-batching-pipeline
+
+
 ### 2017-05-09
 
 #### 10 Killer Elixir Tips
@@ -8,10 +19,10 @@ https://medium.com/blackode/10-killer-elixir-tips-2a9be1bec9be
 
 ```elixir
 # Regular Approach
-find = fn(x) when x>10 or x<5 or x==7 -> x end 
+find = fn(x) when x>10 or x<5 or x==7 -> x end
 
 # Our Hack
-hell = fn(x) when true in [x>10,x<5,x==7] -> x end 
+hell = fn(x) when true in [x>10,x<5,x==7] -> x end
 ```
 
 ##### Thinking `||` as `Kernel.||`

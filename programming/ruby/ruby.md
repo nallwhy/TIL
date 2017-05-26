@@ -133,6 +133,8 @@ $ ruby -r "./test.rb" -e "puts test_function 'hi'"
 hello
 ```
 
+But as it uses stdout by `puts`, it returns **all** messages of execution. BAD.
+
 
 ### 2017-04-21
 

@@ -3,9 +3,16 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-06-02
+
+[Elixir](./programming/elixir/elixir.md#2017-06-02)
+
+
 ### 2017-05-26
 
 [Design](./etc/design/design.md#2017-05-26)
+
+[Ruby](./programming/ruby/ruby.md#2017-05-26)
 
 
 ### 2017-05-17

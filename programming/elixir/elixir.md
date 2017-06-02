@@ -1,3 +1,10 @@
+### 2017-06-02
+
+#### Elixir and Unicode, Part 1: Unicode and UTF-8 Explained
+
+https://www.bignerdranch.com/blog/unicode-and-utf-8-explained/
+
+
 ### 2017-05-17
 
 #### Thinking in Ecto - schemas and changesets

@@ -1,3 +1,12 @@
+### 2017-05-26
+
+#### Rails Speed with Ruby 2.4.0 and Current Discourse
+
+http://engineering.appfolio.com/appfolio-engineering/2017/5/22/rails-speed-with-ruby-240-and-discourse-180
+
+Update your Ruby!
+
+
 ### 2017-05-11
 
 #### RailsPanel

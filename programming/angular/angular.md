@@ -1,3 +1,26 @@
+### 2017-06-05
+
+#### Preserving query params for the next navigation
+
+https://angular.io/docs/js/latest/api/router/index/NavigationExtras-interface.html
+
+```typescript
+// Preserve query params from /results?page=1 to /view?page=1
+this.router.navigate(['/view'], { preserveQueryParams: true });
+```
+
+#### Angular-Material 2 Theme Tutorial
+
+https://medium.com/covalent-ui/angular-material-2-theme-tutorial-2f7e6c344006
+
+
+### 2017-06-02
+
+#### Angular University
+
+https://angular-university.io/
+
+
 ### 2017-05-09
 
 #### Build a simple Emoji Chrome Extension with Angular CLI

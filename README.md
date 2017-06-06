@@ -3,6 +3,16 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-06-06
+
+[Android](./programming/android/android.md#2017-06-06)
+
+
+### 2017-06-05
+
+[Angular](./programming/angular/angular.md#2017-06-05)
+
+
 ### 2017-06-02
 
 [Elixir](./programming/elixir/elixir.md#2017-06-02)

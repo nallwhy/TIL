@@ -1,3 +1,10 @@
+### 2017-06-06
+
+#### Update your app to take advantage of the larger aspect ratio on new Android flagship devices
+
+https://android-developers.googleblog.com/2017/03/update-your-app-to-take-advantage-of.html
+
+
 ### 2017-05-09
 
 #### RxLoader

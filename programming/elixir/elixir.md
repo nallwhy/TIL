@@ -1,3 +1,10 @@
+### 2017-06-05
+
+#### Optimizing Your Elixir and Phoenix projects with ETS
+
+https://dockyard.com/blog/2017/05/19/optimizing-elixir-and-phoenix-with-ets
+
+
 ### 2017-06-02
 
 #### Elixir and Unicode, Part 1: Unicode and UTF-8 Explained

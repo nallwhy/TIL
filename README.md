@@ -3,12 +3,23 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-06-07
+
+[Exit script on fail](./programming/etc/exit_script_on_fail.md)
+
+[Design](./etc/design/design.md#2017-06-07)
+
+
 ### 2017-06-06
 
 [Android](./programming/android/android.md#2017-06-06)
 
 
 ### 2017-06-05
+
+[Finding big directories and files on Ubuntu](./programming/etc/finding_big_directories_and_files_on_ubuntu.md)
+
+[Elixir](./programming/elixir/elixir.md#2017-06-05)
 
 [Angular](./programming/angular/angular.md#2017-06-05)
 

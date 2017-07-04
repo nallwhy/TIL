@@ -3,6 +3,22 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-07-04
+
+[Elixir](./programming/elixir/elixir.md#2017-07-04)
+
+[Google I/O 17 What's New in Android Support Library](./programming/android/google_io_17/what's_new_in_android_support_library.md)
+
+[Android](./programming/android/android.md#2017-07-04)
+
+
+### 2017-07-03
+
+[Android](./programming/android/android.md#2017-07-03)
+
+[Kotlin](./programming/kotlin/kotlin.md#2017-07-03)
+
+
 ### 2017-06-07
 
 [Exit script on fail](./programming/etc/exit_script_on_fail.md)

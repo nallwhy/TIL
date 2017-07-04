@@ -1,3 +1,60 @@
+### 2017-07-04
+
+#### Composer
+
+https://github.com/gojuno/composer
+
+Reactive Android Instrumentation Test Runner.
+
+
+### 2017-07-03
+
+#### LocationServices
+
+https://blog.stylingandroid.com/locationservices/
+
+```java
+public class LocationFragment extends Fragment {
+
+  private FusedLocationProviderClient locationProvicerClient = null;
+
+  void registerForLocationUpdates() {
+    locationProvicerClient = LocationServices.getFusedLocationProviderClient(getActivity());
+    LocationRequest locationRequest = LocationRequest.create();
+    Looper looper = Looper.myLooper();
+    locationProviderClient.requestLocationUpdates(locationRequest, locationCallback, looper);
+  }
+
+  void unregisterForLocationUpdates() {
+    fusedLocationProviderClient.removeLocationUpdates(locationCallback);
+  }
+
+  private LocationCallback locationCallback = new LocationCallback() {
+    @Override
+    public void onLocationResult(LocationResult locationResult) {
+      super.onLocationResult(locationResult);
+      Location lastLocation = locationResult.getLastLocation();
+      updatePosition(lastLocation);
+    }
+  };
+}
+```
+
+#### RxJava — The first 3 patterns
+
+https://medium.com/@andrew.kelly/rxjava-the-first-3-patterns-4c112a85b689
+
+```java
+Observable<List<Event>> source1 = cacheRepository.getEventsFeed(...);
+Observable<List<Event>> source2 = networkRepository.getEventsFeed(...);
+Maybe<List<Event>> source = Observable.concat(source1, source2).firstElement();
+```
+
+#### Device Year Class
+
+https://github.com/facebook/device-year-class
+
+
 ### 2017-06-06
 
 #### Update your app to take advantage of the larger aspect ratio on new Android flagship devices

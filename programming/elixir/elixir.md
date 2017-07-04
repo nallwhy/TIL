@@ -1,3 +1,18 @@
+### 2017-07-04
+
+#### Cortex
+
+https://github.com/urbint/cortex
+
+Cortex is the intelligent coding assistant for Elixir.
+
+#### The Missing Guide To Elixir
+
+https://circleci.com/blog/the-missing-guide-to-elixir
+
+CircleCI + Elixir
+
+
 ### 2017-06-05
 
 #### Optimizing Your Elixir and Phoenix projects with ETS

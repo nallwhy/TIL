@@ -1,3 +1,16 @@
+### 2017-07-03
+
+#### Kotlin's hidden costs - Benchmarks
+
+https://sites.google.com/a/athaydes.com/renato-athaydes/posts/kotlinshiddencosts-benchmarks
+
+Don't use
+
+* varags + spread operator
+* delegate properties
+* ranges + forEach function
+
+
 ### 2017-05-14
 
 #### Dialogs and alerts on Android using Anko and Kotlin

@@ -3,6 +3,11 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-07-07
+
+[Creating user `postgres` and add role to the account on postgresql](./programming/database/create_user_postgres_and_add_role_to_the_account_on_postgresql.md)
+
+
 ### 2017-07-04
 
 [Elixir](./programming/elixir/elixir.md#2017-07-04)

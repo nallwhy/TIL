@@ -1,3 +1,27 @@
+### 2017-06-13
+
+#### Letter Opener
+
+https://github.com/ryanb/letter_opener
+
+Preview email in the default browser instead of sending it
+
+#### Devise Masquerade
+
+https://github.com/oivoodoo/devise_masquerade  
+https://gorails.com/episodes/devise-masquerade
+
+Login as any user easliy
+
+#### Retryable
+
+https://github.com/nfedyashev/retryable
+
+#### Building APIs with Ruby on Rails and GraphQL
+
+https://www.sitepoint.com/building-apis-ruby-rails-graphql/
+
+
 ### 2017-05-26
 
 #### Rails Speed with Ruby 2.4.0 and Current Discourse

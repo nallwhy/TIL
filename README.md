@@ -3,6 +3,16 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-07-07
+
+[Elixir](./programming/elixir/elixir.md#2017-07-07)
+
+
+### 2017-07-05
+
+[Design](./etc/design/design.md#2017-07-05)
+
+
 ### 2017-07-04
 
 [Elixir](./programming/elixir/elixir.md#2017-07-04)
@@ -17,6 +27,11 @@ Today I Learned.
 [Android](./programming/android/android.md#2017-07-03)
 
 [Kotlin](./programming/kotlin/kotlin.md#2017-07-03)
+
+
+### 2017-06-13
+
+[Ruby](./programming/ruby/ruby.md#2017-06-13)
 
 
 ### 2017-06-07

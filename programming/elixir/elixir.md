@@ -1,3 +1,21 @@
+### 2017-07-07
+
+#### Never compare dates in Elixir using "<" or ">"
+
+http://blog.leif.io/never-use-to-compare-dates/
+
+It's just Struct comparing.
+
+Use [NaiveDateTime.compare()](https://hexdocs.pm/elixir/NaiveDateTime.html#compare/2).
+
+#### Elmchemy
+
+https://github.com/wende/elmchemy  
+https://hackernoon.com/elmchemy-write-type-safe-elixir-code-with-elms-syntax-part-1-introduction-8968b76d721d
+
+Using elm syntax to write type-safe elixir code.
+
+
 ### 2017-07-04
 
 #### Cortex

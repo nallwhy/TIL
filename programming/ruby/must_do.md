@@ -82,3 +82,38 @@ Performance insights for Ruby & Elixir apps.
 https://github.com/dejan/rails_panel
 
 Chrome extension for Rails development that will end your tailing of development.log.
+
+
+#### Letter Opener
+
+https://github.com/ryanb/letter_opener
+
+Preview email in the default browser instead of sending it
+
+
+#### Devise Masquerade
+
+https://github.com/oivoodoo/devise_masquerade  
+https://gorails.com/episodes/devise-masquerade
+
+Login as any user easliy
+
+
+#### Pry
+
+https://github.com/pry/pry
+
+
+#### Pundit
+
+https://github.com/elabs/pundit
+
+
+#### Retryable
+
+https://github.com/nfedyashev/retryable
+
+
+#### Building APIs with Ruby on Rails and GraphQL
+
+https://www.sitepoint.com/building-apis-ruby-rails-graphql/

@@ -1,3 +1,15 @@
+### 2017-07-09
+
+#### Security Scanning Your Phoenix App (Sobelow)
+
+https://brainlid.org/elixir/2017/06/14/security-scanning-phoenix.html  
+https://github.com/nccgroup/sobelow
+
+#### Lonestar ElixirConf 2017- KEYNOTE: Phoenix 1.3 by Chris McCord
+
+https://www.youtube.com/watch?v=tMO28ar0lW8
+
+
 ### 2017-07-07
 
 #### Never compare dates in Elixir using "<" or ">"

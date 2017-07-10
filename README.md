@@ -3,6 +3,16 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-07-09
+
+[Angular](./programming/angular/angular.md#2017-07-09)
+
+
+### 2017-07-08
+
+[Angular](./programming/angular/angular.md#2017-07-08)
+
+
 ### 2017-07-07
 
 [Creating user `postgres` and add role to the account on postgresql](./programming/database/create_user_postgres_and_add_role_to_the_account_on_postgresql.md)

@@ -1,3 +1,17 @@
+### 2017-07-09
+
+#### ngAir 120 - Code Sharing between NativeScript and Web with Sebastian Witalec
+
+https://www.youtube.com/watch?v=uEPSY_X9pUc
+
+
+### 2017-07-08
+
+#### Great Progressive Web App Experiences with Angular (Google I/O '17)
+
+https://www.youtube.com/watch?v=C8KcW1Nj3Mw
+
+
 ### 2017-06-05
 
 #### Preserving query params for the next navigation

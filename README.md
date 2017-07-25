@@ -3,6 +3,11 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-07-25
+
+[Web](./programming/web/web.md#2017-07-25)
+
+
 ### 2017-07-09
 
 [Angular](./programming/angular/angular.md#2017-07-09)

@@ -1,3 +1,10 @@
+### 2017-07-25
+
+#### Enrich Search Results with JSON-LD Markup through Google Tag Manager
+
+https://www.youtube.com/watch?v=i8P-B5aa5E0
+
+
 ### 2017-05-07
 
 #### Sizzy

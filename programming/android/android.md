@@ -1,3 +1,10 @@
+### 2017-07-19
+
+#### How to Make Widgets on Android
+
+https://tecsynt.com/blog/development/how-to-make-widgets-on-android
+
+
 ### 2017-07-04
 
 #### Composer

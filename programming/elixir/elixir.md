@@ -1,3 +1,28 @@
+### 2017-08-09
+
+#### Lessons From Using Phoenix 1.3
+
+https://robots.thoughtbot.com/lessons-from-using-phoenix-1-3
+
+#### Making Sense of Ecto 2 SQL.Sandbox and Connection Ownership Modes
+
+https://medium.com/@qertoip/making-sense-of-ecto-2-sql-sandbox-and-connection-ownership-modes-b45c5337c6b7
+
+
+### 2017-08-07
+
+#### Engineering at Teachers Pay Teachers
+
+http://engineering.teacherspayteachers.com/2017/08/02/reducing-elixir-backend-time-from-120ms-to-20ms-with-parallelization.html
+
+
+### 2017-08-04
+
+#### State of the art in deploying Elixir / Phoenix applications
+
+https://hackernoon.com/state-of-the-art-in-deploying-elixir-phoenix-applications-fe72a4563cd8
+
+
 ### 2017-07-19
 
 #### How Discord Scaled Elixir to 5,000,000 Concurrent Users

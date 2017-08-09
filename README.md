@@ -3,6 +3,26 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-08-09
+
+[Elixir](./programming/elixir/elixir.md#2017-08-09)
+
+
+### 2017-08-07
+
+[Elixir](./programming/elixir/elixir.md#2017-08-07)
+
+
+### 2017-08-04
+
+[Elixir](./programming/elixir/elixir.md#2017-08-04)
+
+
+### 2017-07-27
+
+[Web](./programming/web/web.md#2017-07-27)
+
+
 ### 2017-07-25
 
 [Web](./programming/web/web.md#2017-07-25)

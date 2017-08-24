@@ -117,3 +117,8 @@ https://github.com/nfedyashev/retryable
 #### Building APIs with Ruby on Rails and GraphQL
 
 https://www.sitepoint.com/building-apis-ruby-rails-graphql/
+
+
+#### PgHero
+
+https://github.com/ankane/pghero

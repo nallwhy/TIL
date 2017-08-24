@@ -1,3 +1,18 @@
+### 2017-08-16
+
+#### StreamData
+
+StreamData is an Elixir library for data generation and property testing.
+
+https://github.com/whatyouhide/stream_data
+
+#### PryIn
+
+Monitoring Phoniex app
+
+https://pryin.io
+
+
 ### 2017-08-09
 
 #### Lessons From Using Phoenix 1.3

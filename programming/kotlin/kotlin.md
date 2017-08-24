@@ -1,3 +1,13 @@
+### 2017-08-22
+
+#### Kotlin 1.1.4 is out
+
+https://blog.jetbrains.com/kotlin/2017/08/kotlin-1-1-4-is-out
+
+- Android Extensions plugin enhancements
+- Parcelable support
+
+
 ### 2017-07-03
 
 #### Kotlin's hidden costs - Benchmarks

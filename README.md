@@ -3,6 +3,33 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-08-22
+
+[Android](./programming/android/android.md#2017-08-22)
+
+[Kotlin](./programming/kotlin/kotlin.md#2017-08-22)
+
+
+### 2017-08-18
+
+[Android](./programming/android/android.md#2017-08-18)
+
+
+### 2017-08-17
+
+[Javascript](./programming/javascript/javascript.md#2017-08-17)
+
+
+### 2017-08-16
+
+[Elixir](./programming/elixir/elixir.md#2017-08-16)
+
+
+### 2017-08-10
+
+[Elixir](./programming/database/database.md#2017-08-10)
+
+
 ### 2017-08-09
 
 [Elixir](./programming/elixir/elixir.md#2017-08-09)

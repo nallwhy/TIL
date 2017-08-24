@@ -1,3 +1,22 @@
+### 2017-08-22
+
+#### Dependency Injection usage Checks
+
+https://github.com/groupon/dependency-injection-checks
+
+#### Cicerone
+
+https://github.com/terrakok/Cicerone  
+https://medium.com/@terrakok/cicerone-kotlin-da5b2f49d759
+
+
+### 2017-08-18
+
+#### Taming state in Android with Elm Architecture and Kotlin, Part 1
+
+https://proandroiddev.com/taming-state-in-android-with-elm-architecture-and-kotlin-part-1-566caae0f706
+
+
 ### 2017-07-19
 
 #### How to Make Widgets on Android

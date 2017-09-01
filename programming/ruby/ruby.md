@@ -1,3 +1,10 @@
+### 2017-09-01
+
+#### The Safe Navigation Operator (&.) in Ruby
+
+http://mitrev.net/ruby/2015/11/13/the-operator-in-ruby/
+
+
 ### 2017-06-13
 
 #### Letter Opener

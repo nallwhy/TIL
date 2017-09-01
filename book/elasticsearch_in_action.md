@@ -251,7 +251,7 @@ You can delete data by document, type, index. Or you can just **close** index to
 }
 ```
 
-### Filter
+### Query & Filter
 
 ```json
 {
@@ -280,3 +280,22 @@ Match all document. There is the inverse of this query, `match_none`.
 
 #### `query_string`
 
+Search `_all` field. It's recommend to use other queries like `term`, `match`.
+
+#### `term`, `terms`
+
+Find documents that contain the exact term specified in the inverted index.
+
+#### `match`
+
+The match query is of type **boolean**. It means that the text provided is analyzed and the analysis process constructs a boolean query from the provided text.
+
+### Combination
+
+#### bool
+
+`must`, `should`, `must_not`
+
+### More
+
+`range`, `prefix`, `wildcard`, `exists`, `missing`, `

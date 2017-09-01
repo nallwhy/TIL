@@ -3,6 +3,11 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-09-01
+
+[Ruby](./programming/ruby/ruby.md#2017-09-01)
+
+
 ### 2017-08-22
 
 [Android](./programming/android/android.md#2017-08-22)

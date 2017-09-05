@@ -1,5 +1,17 @@
 I can memorize all the sentences below.
 
+### 6
+
+One of the most important thing to win at life? A job. I'm not gonna bore you by teaching you how to write a resume. I'll talk about what to do after you get the phone call. We are gonna learn how to nail a job interview.
+Company owners are in on the experiment, but the interviewer isn't. As successful business owners, they're obviously interested to see if my strategies work.
+I'm striking what's known as a power pose. According to Dr. Amy Cuddy a psychologist of Havard Business school, even just 2 min. of this posturing can help you take risks and corp with stress. This stance is open up the body, and believe or not, it actually changes your body chemistry raising you testosteron level by 20% which makes your appear and feel more confident. I'm out to win this job, but power posing is only the first trick up my sleeve. My voice is next.
+The way you speak in the tone of your voice has a huge impact on how you are perceived. In face, one recent study found that the sound of person's voice matters twice as much as the content of their message.
+
+
+### 5
+
+I've actually always found something that to be very true which is um.. most people don't get those experiences because they never ask. I've never found anybody who didn't want to help me if I asked for help. I always call up. I called up, this'll date me, but I called up Bill Hewlett when I was 12 years old. He lived in Palo Alto and his number was still in a phone book. He answered the phone himself "yes". "Hi, I'm Steve Jobs. I'm 12 years old. I'm a student in highschool. And I want to build a frequency counter. And I was wondering if you have any spare parts I could have." He laughed. He gave me the spare parts to build a frequency counter. And He gave me a job that summer in HP working on the assembly line putting nuts and bolts together on frequency counters. He got me a job in the place to build it. And I was in heaven. I've never found anyone who said no or hung up the phone when I called. I just asked. And when people ask me, I try to be as responsible to pay the dept of gratitude back. Most people never pick up the phone and call. Most people never ask. That's what separate sometimes the people who do things from the people that just dream about it. You've got to act. You've got to be willing to fail. You've got to be willing to crash and burn with people on the phone, with starting a company, with whatever. If you're afraid of failing, you won't get very far.
+
 ### 4
 
 When you grow up, you tend to get told that the world is the way it is and your life is just to live your life inside the word, try not to bash into the walls too much, try to have a nice family life, have a fun, save little money. That's a very limitted life. Life can be much broader once you discovery one simple fact, and that is everything around you that you call life is made up by people there are no smater than you.

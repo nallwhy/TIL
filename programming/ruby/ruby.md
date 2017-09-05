@@ -9,6 +9,13 @@ https://www.amberbit.com/blog/2017/6/17/deploying-ruby-on-rails-application-to-h
 https://github.com/ruby-concurrency/concurrent-ruby
 
 
+### 2017-09-02
+
+#### How to make Ajax calls — The Rails way
+
+https://m.patrikonrails.com/how-to-make-ajax-calls-the-rails-way-20174715d176
+
+
 ### 2017-09-01
 
 #### The Safe Navigation Operator (&.) in Ruby

@@ -3,6 +3,13 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-09-05
+
+[Ruby](./programming/ruby/ruby.md#2017-09-05)
+
+[How to implement auto complete](./programming/elasticsearch/how_to_implement_auto_complete.md)(draft)
+
+
 ### 2017-09-01
 
 [Ruby](./programming/ruby/ruby.md#2017-09-01)

@@ -1,3 +1,14 @@
+### 2017-09-05
+
+#### Deploying Ruby on Rails application to Heroku using Docker
+
+https://www.amberbit.com/blog/2017/6/17/deploying-ruby-on-rails-application-to-heroku-using-docker/
+
+#### Concurrent Ruby
+
+https://github.com/ruby-concurrency/concurrent-ruby
+
+
 ### 2017-09-01
 
 #### The Safe Navigation Operator (&.) in Ruby

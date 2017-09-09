@@ -3,6 +3,11 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-09-06
+
+[Searching history of deleted file](./programming/git/searching_history_of_deleted_file.md)
+
+
 ### 2017-09-05
 
 [Ruby](./programming/ruby/ruby.md#2017-09-05)

@@ -1,63 +1,56 @@
----
-layout: post
-title:  "Hello, I'm mayTree."
-date:   2016-03-29 23:00:00 +0900
-categories: resume
----
+# Jinkyou Son
 
-### **Jinkyou Son**
+## Motto
 
-**Nickname**\\
-mayTree, JSon
+<!-- 영어로도 작성할 것 -->
+[A human is not perfect, but can be.](http://json.postype.com/post/119354/){:target="_blank"}
 
-**Motto**\\
-[Human is not perfect, but can be perfect.](http://json.postype.com/post/119354/){:target="_blank"}
+## Introduction
 
-I'm a 3 years experienced software engineer.\\
+<!-- 5년차, 생각하는 개발자, 읽기와 쓰기를 좋아한다, 취향 탐색을 좋아한다 -->
+
+I'm a 5 years experienced software engineer.\\
 I started this career late, but really happy to do this job.\\
 I used to study by myself and learn quickly.\\
 I had wide range of experience at 2015, and now I want to be a specialist not a just generalist.
 
 
 
-### **What I experienced**
+## Skills
 
-**Skills**
+- Backend
 
-- Web: 1.5 years
+Phoenix(Elixir), Ruby on Rails, Node.js, Serverless(AWS Lambda)
 
-  Front-end - Angular, Responsive, HTML, Javascript, CoffeeScript, SCSS, HAML, UnderscoreJS\\
-  Back-end - Elixir, Serverless, Ruby on Rails, AWS, Heroku, RESTful, Facebook login, Paypal payment, Firebase
+- Frontend
 
-- Android: 7 months
-  
-  Kotlin, MVVM, RxJava, Realm, Dagger, Facebook SDK, AWS SDK, Paypal SDK
+Angular, Responsive web, Electron, jQuery
 
-- iOS: 4 months
+- DevOps
 
-  MVVM, Protocol-oriented programming, Swift, ReactiveKit, Alamofire
+AWS, Docker, Heroku, Firebase
 
-- Windows desktop application: 2 years
+- Android
 
-  C++, C#, OpenGL, Geometry, Poco
+Kotlin, Reactive programming, MVVM
 
-- Etc
+- iOS
 
-  Docker, Electron
+Reactive programming, MVVM, Protocol-oriented programming
 
-**Languages**
+- Windows desktop application
 
-Elixir, Ruby, TypeScript, Kotlin, Swift, Javascript, C++, C#, Java, CoffeeScript
+C++, C#, OpenGL
 
 
-### **Also, I'm interested in**
 
-- React
-- React Native
-- Elm
+<!-- Next step? -->
+## Interesting
+
+React, Elm, PWA, AMP, React Native
 
 
-### **What I did**
+## Main Project
 
 - **3DPRINT Connect** ([Youtube](https://youtu.be/0qFXxqwhWpw){:target="_blank"}) : 1.5 years\\
   CES 2016 Innovation Award
@@ -120,12 +113,48 @@ Elixir, Ruby, TypeScript, Kotlin, Swift, Javascript, C++, C#, Java, CoffeeScript
 - **OperaCoffee Back Office** (2 months)
 
   Angular2 + Electron cross platform desktop app.\\
-  Mobile first responsive web design.
+  Mobile first responsive web.
 
   ![operacoffee_back_office_0](./images/operacoffee_back_office_0.png){:width="65%"}
   ![operacoffee_back_office_1](./images/operacoffee_back_office_1.png){:width="25%"}
 
-### **Career**
+- **SecretVill Web** (1 month)
+
+Angular
+
+- **xxx Crawler Backend** (8 months)
+
+Elixir, Deploying, Operation, AWS
+
+
+## Toy Projects
+
+- **Skelterlabs welcome kit** (5 days)
+
+회사 처음 온 사람들을 위한 어쩌구
+wifi 자동 예약, 각 직업군을 위한 안내 등
+
+Angular, Electron
+
+- **Memory Bot** (1 day)
+
+Upload 1 picture to Slack every working day to 추억 회상
+
+Node.js, AWS Lambda
+
+- Windows Shutdown
+http://maytrees.tistory.com/144
+
+졸잼졸잼
+윈도우즈 예약 종료
+음악 들으면서 자던 중 원하는 프로그램 못찾아서 개발
+볼륨 조정 기능! 볼륨 맛보기!
+
+
+
+
+
+## **Career**
 
 <div class="career">
   <div class="board-flex-container">
@@ -300,6 +329,10 @@ Elixir, Ruby, TypeScript, Kotlin, Swift, Javascript, C++, C#, Java, CoffeeScript
 #### [Material Design for Angular](https://github.com/angular/material2)
 
 * [feat(dialog): add result to MdDialogClose directive](https://github.com/angular/material2/pull/4332)
+
+#### [HtmlEntities](https://github.com/martinsvalin/html_entities)
+
+* [Replace deprecataed String.rstrip with String.trim_trailing](https://github.com/martinsvalin/html_entities/pull/13)
 
 
 ### **Activity**

@@ -3,6 +3,20 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-09-12
+
+[Elixir](./programming/elixir/elixir.md#2017-09-12)
+
+[React](./programming/react/react.md#2017-09-12)
+
+[Javascript](./programming/javascript/javascript.md#2017-09-12)
+
+
+### 2017-09-08
+
+[Ruby](./programming/ruby/ruby.md#2017-09-08)
+
+
 ### 2017-09-06
 
 [Searching history of deleted file](./programming/git/searching_history_of_deleted_file.md)

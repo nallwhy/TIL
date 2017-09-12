@@ -1,3 +1,23 @@
+### 2017-09-08
+
+#### Mailcatcher
+
+https://github.com/sj26/mailcatcher  
+https://gorails.com/episodes/testing-emails-with-mailcatcher
+
+
+#### How We Made Writing Tests Fun and Easy
+
+https://blog.daftcode.pl/how-we-made-writing-tests-fun-and-easy-2d7e1fac6d16
+
+
+#### ruby-vips
+
+This gem provides a Ruby binding for the libvips image processing library.
+
+https://github.com/jcupitt/ruby-vips
+
+
 ### 2017-09-05
 
 #### Deploying Ruby on Rails application to Heroku using Docker

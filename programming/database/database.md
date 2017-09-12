@@ -1,6 +1,16 @@
+### 2017-09-12
+
+#### Random sampling
+
+https://stackoverflow.com/questions/8674718/best-way-to-select-random-rows-postgresql  
+https://www.postgresql.org/docs/current/static/tsm-system-rows.html
+
+
 ### 2017-08-10
 
 #### PgHero
+
+A performance dashboard for Postgres
 
 https://github.com/ankane/pghero
 

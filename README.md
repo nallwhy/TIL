@@ -3,6 +3,16 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-09-19
+
+[React](./programming/react/react.md#2017-09-19)
+
+
+### 2017-09-14
+
+[React](./programming/react/react.md#2017-09-14)
+
+
 ### 2017-09-12
 
 [Elixir](./programming/elixir/elixir.md#2017-09-12)

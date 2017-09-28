@@ -334,6 +334,10 @@ http://maytrees.tistory.com/144
 
 * [Replace deprecataed String.rstrip with String.trim_trailing](https://github.com/martinsvalin/html_entities/pull/13)
 
+#### [Timber-Elixir](https://github.com/timberio/timber-elixir)
+
+* [Replace GenEvent with :gen_event to remove a warning on Elixir 1.5](https://github.com/timberio/timber-elixir/pull/229)
+
 
 ### **Activity**
 

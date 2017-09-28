@@ -3,6 +3,11 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-09-28
+
+[Ruby](./programming/ruby/ruby.md#2017-09-28)
+
+
 ### 2017-09-19
 
 [React](./programming/react/react.md#2017-09-19)

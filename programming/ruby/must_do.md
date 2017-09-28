@@ -132,3 +132,8 @@ https://gorails.com/episodes/testing-emails-with-mailcatcher
 #### How We Made Writing Tests Fun and Easy
 
 https://blog.daftcode.pl/how-we-made-writing-tests-fun-and-easy-2d7e1fac6d16
+
+
+#### RailsPanel
+
+https://github.com/dejan/rails_panel

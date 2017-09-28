@@ -1,3 +1,10 @@
+### 2017-09-28
+
+#### RailsPanel
+
+https://github.com/dejan/rails_panel
+
+
 ### 2017-09-08
 
 #### Mailcatcher

@@ -339,6 +339,11 @@ http://maytrees.tistory.com/144
 * [Replace GenEvent with :gen_event to remove a warning on Elixir 1.5](https://github.com/timberio/timber-elixir/pull/229)
 
 
+#### [LoggerPapertrailBackend](https://github.com/larskrantz/logger_papertrail_backend)
+
+* [Fix Elixir 1.5 warnings and update required elixir version](https://github.com/larskrantz/logger_papertrail_backend/pull/13)
+
+
 ### **Activity**
 
 <div class="activity" class="card-flex-container">

@@ -1,3 +1,16 @@
+### 2017-09-29
+
+#### Rails and Phoenix microservice synergy
+
+many rails optimization tips
+
+https://medium.com/@SergeyChechaev/rails-and-phoenix-microservice-synergy-5433598ab333
+
+#### yield_self
+
+http://mlomnicki.com/yield-self-in-ruby-25/
+
+
 ### 2017-09-28
 
 #### RailsPanel

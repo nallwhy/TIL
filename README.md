@@ -3,9 +3,26 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-10-08
+
+[AWS](./programming/aws/aws.md#2017-10-08)
+
+[CSS](./programming/css/css.md#2017-10-08)
+
+
 ### 2017-09-28
 
 [Ruby](./programming/ruby/ruby.md#2017-09-28)
+
+
+### 2017-09-25
+
+[CORS setting for custom fonts in Cloudfront](./programming/ruby/cors_setting_for_custom_fonts_in_cloudfront.md)
+
+
+### 2017-09-24
+
+[Design](./etc/design/design.md#2017-09-24)
 
 
 ### 2017-09-19

@@ -1,6 +1,13 @@
+### 2017-10-08
+
+#### Deploy a REST API using Serverless, Express and Node.js
+
+https://serverless.com/blog/serverless-express-rest-api/
+
+
 ### 2017-04-27
 
-### AWS ES/Kibana Proxy
+#### AWS ES/Kibana Proxy
 
 https://github.com/santthosh/aws-es-kibana
 

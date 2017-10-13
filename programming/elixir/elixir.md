@@ -1,3 +1,10 @@
+### 2017-10-11
+
+#### Today I Learned in Elixir
+
+https://github.com/hashrocket/tilex
+
+
 ### 2017-09-12
 
 #### Flowex

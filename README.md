@@ -3,6 +3,20 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-10-12
+
+[React](./programming/react/react.md#2017-10-12)
+
+
+### 2017-10-11
+
+[Ruby](./programming/ruby/ruby.md#2017-10-11)
+
+[Elixir](./programming/elixir/elixir.md#2017-10-11)
+
+[Set headers for every request](./programming/angular/set_headers_for_every_request.md)
+
+
 ### 2017-10-08
 
 [AWS](./programming/aws/aws.md#2017-10-08)

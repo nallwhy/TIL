@@ -1,3 +1,10 @@
+### 2017-10-11
+
+#### Go Rails Episodes
+
+https://gorails.com/episodes
+
+
 ### 2017-09-29
 
 #### Rails and Phoenix microservice synergy

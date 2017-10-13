@@ -1,3 +1,10 @@
+### 2017-10-12
+
+#### Timers in React Apps with Redux
+
+https://medium.com/@machadogj/timers-in-react-with-redux-apps-9a5a722162e8
+
+
 ### 2017-09-19
 
 #### React & D3

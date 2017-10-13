@@ -82,6 +82,25 @@ Bring environments of product to local environments.
 
 run `npm install` in phoenix project directory
 
+install awscli
+
+aws configure
+
+AWS ECS - ECR snappy/elixir-build
+
+aws ecr get-login --region ap-northeast-1
+여기서 나오는 명령어로 다시 입력할것.
+
 AWS Codebuild, Elastic Beanstalk, CloudFormation, CodePipeline, ...
 
+copy `_build/prod/rel/snappy/releases/0.1.0/snappy.tar.gz`.
+
+tar -xzf <name>.tar.gz
+
+run `bin/<name>`
+
 Confirm to dynamic env of elixir release.
+
+add ecto migration
+http://blog.firstiwaslike.com/elixir-deployments-with-distillery-running-ecto-migrations/
+

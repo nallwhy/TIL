@@ -1,3 +1,32 @@
+### 2017-10-15
+
+#### Embrace The Database With Ecto
+
+https://speakerdeck.com/jbranchaud/embrace-the-database-with-ecto
+
+
+#### Elixir tips
+
+https://github.com/blackode/elixir-tips
+
+
+#### Alias your Phoenix mix commands for some nice developer UX
+
+https://sergiotapia.me/alias-your-phoenix-mix-commands-for-some-nice-developer-ux-4a02b2bf3474
+
+
+#### Dialyxir
+
+Mix tasks to simplify use of Dialyzer in Elixir projects
+
+https://github.com/jeremyjh/dialyxir
+
+
+#### How Discord handles push request bursts of over a million per minute with Elixir’s GenStage
+
+https://blog.discordapp.com/how-discord-handles-push-request-bursts-of-over-a-million-per-minute-with-elixirs-genstage-8f899f0221b4
+
+
 ### 2017-10-11
 
 #### Today I Learned in Elixir

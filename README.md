@@ -3,6 +3,18 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-10-15
+
+[Elixir](./programming/elixir/elixir.md#2017-10-15)
+
+
+### 2017-10-14
+
+[Ruby](./programming/ruby/ruby.md#2017-10-14)
+
+[Angular](./programming/angular/angular.md#2017-10-14)
+
+
 ### 2017-10-12
 
 [React](./programming/react/react.md#2017-10-12)

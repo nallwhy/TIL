@@ -1,3 +1,12 @@
+### 2017-10-15
+
+#### Fakeit
+
+The Kotlin fake data generator library
+
+https://github.com/moove-it/fakeit
+
+
 ### 2017-08-22
 
 #### Kotlin 1.1.4 is out

@@ -1,3 +1,23 @@
+### 2017-10-15
+
+#### Faster Rails: How to Check if a Record Exists
+
+https://semaphoreci.com/blog/2017/03/14/faster-rails-how-to-check-if-a-record-exists.html
+
+
+### 2017-10-14
+
+#### 7 Little-Known Ruby Methods To Help You Write Better Code
+
+http://www.rubyguides.com/2017/10/7-powerful-ruby-methods/
+
+#### ReportsKit
+
+Add reporting to your Rails app in minutes, not months
+
+https://www.reportskit.co/
+
+
 ### 2017-10-11
 
 #### Go Rails Episodes

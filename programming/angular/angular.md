@@ -1,3 +1,10 @@
+### 2017-10-14
+
+#### The Ultimate Angular CLI Reference Guide
+
+https://www.sitepoint.com/ultimate-angular-cli-reference/
+
+
 ### 2017-07-09
 
 #### ngAir 120 - Code Sharing between NativeScript and Web with Sebastian Witalec

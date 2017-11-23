@@ -1,3 +1,10 @@
+### 2017-11-12
+
+#### The many faces of DISTINCT in PostgreSQL
+
+https://medium.com/statuscode/the-many-faces-of-distinct-in-postgresql-c52490de5954
+
+
 ### 2017-09-12
 
 #### Random sampling

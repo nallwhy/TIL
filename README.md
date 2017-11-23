@@ -3,6 +3,42 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-11-20
+
+[Elixir](./programming/elixir/elixir.md#2017-11-20)
+
+
+### 2017-11-12
+
+[Elixir](./programming/elixir/elixir.md#2017-11-12)
+
+[Database](./programming/database/database.md#2017-11-12)
+
+
+### 2017-11-03
+
+[Cancel a multiline command on IEx](./programming/elixir/cancel_multiline_command.md)
+
+[Enable shell histroy of IEx](./programming/elixir/enable_shell_histroy.md)
+
+
+### 2017-11-01
+
+[Elixir](./programming/elixir/elixir.md#2017-11-01)
+
+
+### 2017-10-24
+
+[Video/How to learn any language in six months](./etc/video.md#2017-05-05)
+
+[Elixir](./programming/elixir/elixir.md#2017-10-24)
+
+
+### 2017-10-23
+
+[Ruby](./programming/ruby/ruby.md#2017-10-23)
+
+
 ### 2017-10-15
 
 [Elixir](./programming/elixir/elixir.md#2017-10-15)
@@ -121,7 +157,7 @@ Today I Learned.
 
 ### 2017-08-10
 
-[Elixir](./programming/database/database.md#2017-08-10)
+[Database](./programming/database/database.md#2017-08-10)
 
 
 ### 2017-08-09

@@ -1,3 +1,38 @@
+### 2017-11-20
+
+#### Encoding Ecto Validation Errors in Phoenix 1.3
+
+https://www.mitchellhanberg.com/post/2017/10/23/encoding-ecto-validation-errors-in-phoenix/
+
+
+### 2017-11-12
+
+#### Maximizing HTTP/2 performance with GenStage
+
+http://tech.footballaddicts.com/blog/maximizing-http2-performance-with-genstage
+
+
+#### Monitoring GenServers with PryIn
+
+https://blog.pryin.io/monitoring-gen-servers-with-pryin/
+
+
+### 2017-11-01
+
+#### Guaxinim
+
+Literate programming for Elixir
+
+https://github.com/tmbb/guaxinim
+
+
+### 2017-10-24
+
+#### Ecto Query Examples
+
+https://elixirnation.io/references/ecto-query-examples
+
+
 ### 2017-10-15
 
 #### Embrace The Database With Ecto

@@ -1,3 +1,37 @@
+### 2017-11-13
+
+#### Interactor
+
+https://medium.com/@diegoy_kuri/a-place-for-your-business-logic-in-rails-9a5977ee6bc8  
+https://github.com/collectiveidea/interactor
+
+
+#### Build a RESTful JSON API With Rails 5 - Part One
+
+https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one
+
+
+### 2017-10-23
+
+#### How to enable SSL for Rails development environment in two minutes?
+
+https://blog.botreetechnologies.com/enable-ssl-in-developement-using-thin-2a4bd1af500d
+
+#### SSL
+
+##### Easy SSL with Heroku & Cloudflare
+
+https://revs.runtime-revolution.com/easy-ssl-with-heroku-cloudflare-62fc8535d6d4
+
+##### Set up CloudFlare's free SSL on Heroku
+
+https://robots.thoughtbot.com/set-up-cloudflare-free-ssl-on-heroku
+
+##### Configure Cloudflare and Heroku over HTTPS
+
+https://support.cloudflare.com/hc/en-us/articles/205893698-Configure-Cloudflare-and-Heroku-over-HTTPS
+
+
 ### 2017-10-15
 
 #### Faster Rails: How to Check if a Record Exists

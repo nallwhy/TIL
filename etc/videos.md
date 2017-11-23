@@ -1,3 +1,13 @@
+### 2017-10-24
+
+#### The happy secret to better work
+
+https://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work
+
+Hard work -> Success -> Happy (x)
+Happy -> Work better -> Success (o)
+
+
 ### 2017-05-05
 
 #### How to learn any language in six months

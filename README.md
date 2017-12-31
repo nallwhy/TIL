@@ -3,6 +3,48 @@ Today I Learned.
 
 ## Daily updates
 
+### 2017-12-27
+
+[Elixir](./programming/elixir/elixir.md#2017-12-27)
+
+
+### 2017-12-20
+
+[Elixir](./programming/elixir/elixir.md#2017-12-20)
+
+[Database](./programming/database/database.md#2017-12-20)
+
+
+### 2017-12-16
+
+[Plugging the Security Holes in Your Phoenix Application](./programming/elixir/plugging_the_security_holes_in_your_phoenix_application.md)
+
+
+### 2017-12-10
+
+[Elixir](./programming/elixir/elixir.md#2017-12-10)
+
+
+### 2017-12-08
+
+[Web](./programming/web/web.md#2017-12-08)
+
+
+### 2017-12-04
+
+[Elixir](./programming/elixir/elixir.md#2017-12-04)
+
+
+### 2017-12-01
+
+[Blockchain](./programming/blockchain/blockchain.md#2017-12-01)
+
+
+### 2017-11-29
+
+[Elixir](./programming/elixir/elixir.md#2017-11-29)
+
+
 ### 2017-11-20
 
 [Elixir](./programming/elixir/elixir.md#2017-11-20)

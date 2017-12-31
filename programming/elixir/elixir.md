@@ -1,3 +1,180 @@
+### 2017-12-29
+
+#### Gringotts
+
+A complete payment library for Elixir and Phoenix Framework
+
+https://github.com/aviabird/gringotts
+
+#### Best practices for deploying Elixir apps
+
+https://www.cogini.com/blog/best-practices-for-deploying-elixir-apps/
+
+#### Elixir "with" syntax and guard clauses
+
+https://blog.sundaycoding.com/blog/2017/12/27/elixir-with-syntax-and-guard-clauses/
+
+#### Mox
+
+Mox is a library for defining concurrent mocks in Elixir.
+
+https://github.com/plataformatec/mox  
+https://spin.atomicobject.com/2017/12/27/elixir-mox-introduction
+
+
+### 2017-12-27
+
+#### Periodic tasks with Elixir
+
+https://medium.com/@efexen/periodic-tasks-with-elixir-5d9050bcbdb3
+
+#### Phoenix WebSockets Under a Microscope
+
+https://zorbash.com/post/phoenix-websockets-under-a-microscope/
+
+#### Designing scalable application with Elixir: from umbrella project to distributed system
+
+https://medium.com/matic-insurance/designing-scalable-application-with-elixir-from-umbrella-project-to-distributed-system-42f28c7e62f1
+
+#### Postgres Describe
+
+This library provides a `Mix` task that documents PostgreSQL database tables in files within the directory tree.
+
+https://github.com/brandonparsons/postgres_describe
+
+Example:
+```
+                                         Table "public.pages"
+   Column    |            Type             | Collation | Nullable |              Default              
+-------------+-----------------------------+-----------+----------+-----------------------------------
+ id          | bigint                      |           | not null | nextval('pages_id_seq'::regclass)
+ title       | character varying(255)      |           |          | 
+ body        | text                        |           |          | 
+ views       | integer                     |           |          | 0
+ inserted_at | timestamp without time zone |           | not null | 
+ updated_at  | timestamp without time zone |           | not null | 
+ author_id   | bigint                      |           | not null | 
+Indexes:
+    "pages_pkey" PRIMARY KEY, btree (id)
+    "pages_author_id_index" btree (author_id)
+Foreign-key constraints:
+    "pages_author_id_fkey" FOREIGN KEY (author_id) REFERENCES authors(id) ON DELETE CASCADE
+```
+
+
+### 2017-12-26
+
+#### Phoenix Presence for social networks
+
+https://medium.com/@alvinlindstam/phoenix-presence-for-social-networks-5fb67143f0ad
+
+
+### 2017-12-21
+
+#### Macro Madness: How to use `use` well
+
+https://dockyard.com/blog/2017/12/07/macro-madness-how-to-use-use-well
+
+```
+defmodule Miskatonic.Species do
+  @callback client_start_link() ::
+              {:ok, pid} | {:error, reason :: term}
+
+  defmacro __using__([]) do
+    quote do
+      @behaviour Miskatonic.Species
+
+      def get(id) do
+        with {:ok, client_pid} <- client_start_link() do
+          Miskatonic.Client.show(client_pid, id)
+        end
+      end
+    end
+  end
+end
+```
+
+Although we’re not writing the `def get` in every file, it’s being stored in each, which we can see if we ask for the debug info. For one function, this isn’t a big deal, but if we add more and more functions, this is unnecessary bloat, we know it’s exactly the same code. Code loading still takes time with the BEAM even if it’s faster than languages that need to be interpreted from source first.
+
+The general approach you want to take when making functions in your `__using__` quote block to be as short as possible. To do this, I recommend immediately calling a normal function in the outer module that takes `__MODULE__` as an argument.
+
+```
+defmodule Miskatonic.Species do
+  @callback client_start_link() ::
+              {:ok, pid} | {:error, reason :: term}
+
+  defmacro __using__([]) do
+    quote do
+      @behaviour Miskatonic.Species
+
+      def get(id), do: Miskatonic.Species.get(__MODULE__, id)
+    end
+  end
+
+  def get(module, id) do
+    with {:ok, client_pid} <- module.client_start_link() do
+      Miskatonic.Client.show(client_pid, id)
+    end
+  end
+end
+```
+
+#### ExCoveralls
+
+An Elixir library that reports test coverage statistics, with the option to post to coveralls.io service.
+
+https://github.com/parroty/excoveralls
+
+#### ExProf
+
+A simple code profiler for Elixir using eprof.
+
+https://github.com/parroty/exprof  
+https://selfamusementpark.com/profiling-a-slow-elixir-test
+
+
+### 2017-12-20
+
+#### The Road to 2 Million Websocket Connections in Phoenix
+
+http://phoenixframework.org/blog/the-road-to-2-million-websocket-connections
+
+
+### 2017-12-12
+
+#### ElixirConf 2017 Lightning Talk - Elixir Tips: A Year of Tiny Explosions - Rockwell Schrock
+
+https://www.youtube.com/watch?v=Ty6rkz7eg6Y
+
+```elixir
+list = [foo: 1, bar: 2]
+Enum.filter(list, &match?({:foo, _}, &1))
+```
+
+
+### 2017-12-10
+
+#### Benchee
+
+https://github.com/PragTob/benchee
+
+
+### 2017-12-04
+
+#### Conduit
+
+https://github.com/slashdotdash/conduit
+
+
+### 2017-11-29
+
+#### dialyzex
+
+A Mix task for type-checking your Elixir project with dialyzer
+
+https://github.com/Comcast/dialyzex
+
+
 ### 2017-11-20
 
 #### Encoding Ecto Validation Errors in Phoenix 1.3

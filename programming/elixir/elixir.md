@@ -1,3 +1,97 @@
+### 2018-02-12
+
+#### Testing in Elixir:: Chapter 3: The outside world is scary…
+
+https://medium.com/@hoodsuphopeshigh/testing-in-elixir-chapter-3-the-outside-world-is-scary-96748c920d9b
+
+#### Functor Flavoured Pipes in Elixir
+
+https://medium.com/@iacobson/functor-flavoured-pipes-with-elixi-63500d00d59c
+
+#### Using Elixir GenStage to track Video Watch Progress
+
+https://blog.emerleite.com/using-elixir-genstage-to-track-video-watch-progress-9b114786c604
+
+#### Cachex
+
+Cachex is an extremely fast in-memory key/value store with support for many useful features
+
+https://github.com/whitfin/cachex
+
+#### EctoFacade
+
+EctoFacade can be used as interface through which you can query multiple repositories
+
+https://github.com/azranel/ecto_facade
+
+#### Filtering Ecto with a Behaviour
+
+https://blog.oestrich.org/2018/02/filtering-ecto-with-a-behaviour/
+
+
+### 2018-01-31
+
+#### How to test Elixir Cluster of nodes using slaves
+
+https://medium.com/@lorenzo_sinisi/how-to-test-elixir-cluster-of-nodes-using-slaves-69e59a77ec3f
+
+#### An Elixir performance tooling story
+
+https://medium.com/@victor.nascimento/an-elixir-performance-tooling-story-c5c85479063a
+
+#### Postgrex notifications
+
+https://medium.com/@kaisersly/postgrex-notifications-759574f5796e
+
+
+### 2018-01-12
+
+#### Fast Elixir
+
+https://github.com/devonestes/fast-elixir
+
+#### Fast Full-text Search with Ecto and PostgreSQL
+
+http://nathanmlong.com/2018/01/fast-fulltext-search-with-ecto-and-postgresql
+
+#### Case insensitive column in Phoenix
+
+https://blog.sundaycoding.com/blog/2017/12/21/case-insensitive-column-in-phoenix/
+
+
+### 2018-01-09
+
+#### Three alternatives to using GenEvent in Elixir
+
+http://www.cultivatehq.com/posts/three-alternatives-to-using-genevent-in-elixir/
+
+
+### 2018-01-05
+
+#### The (not so) Magic Tricks of Testing in Elixir
+
+https://medium.com/onfido-tech/the-not-so-magic-tricks-of-testing-in-elixir-1-2-89bfcf252321
+
+#### Periodic tasks with Elixir — Part 2
+
+https://medium.com/@efexen/periodic-tasks-with-elixir-part-2-8aaee425aed0
+
+#### Quantum
+
+Cron-like job scheduler for Elixir
+
+https://github.com/c-rack/quantum-elixir
+
+
+### 2018-01-04
+
+#### Absinthe
+
+The GraphQL toolkit for Elixir
+
+https://github.com/absinthe-graphql/absinthe
+
+
 ### 2017-12-29
 
 #### Gringotts

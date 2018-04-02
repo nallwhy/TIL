@@ -1,3 +1,76 @@
+### 2018-03-27
+
+#### Elixir Telegram Bot Boilerplate
+
+A boilerplate for making telegram bots with Elixir and Nadia
+
+https://github.com/lubien/elixir-telegram-bot-boilerplate
+
+
+### 2018-03-25
+
+#### Lonestar ElixirConf 2018 - Usercentered API Versioning - Niall Burkley
+
+https://www.youtube.com/watch?v=puUr9_zzTm4
+
+#### Multiverse
+
+Elixir package that allows to add compatibility layers via API gateways. 
+
+https://github.com/Nebo15/multiverse
+
+
+### 2018-03-24
+
+#### Toniq
+
+Simple and reliable background job processing library for Elixir. (Raft)
+
+https://github.com/joakimk/toniq
+
+
+### 2018-03-19
+
+#### Necessity is the Mother of Invention: stateful experiments on AWS Lambda
+
+http://christophermeiklejohn.com/lasp/2018/03/10/serverless.html
+
+#### Elixometer
+
+A light Elixir wrapper around exometer. (dashboard)
+
+https://github.com/pinterest/elixometer  
+https://alexgaribay.com/2016/02/27/using-elixometer-with-phoenix/
+
+### 2018-03-12
+
+#### FastGlobal
+
+Fast no copy globals for Elixir & Erlang.
+
+https://github.com/discordapp/fastglobal
+
+#### ex_debug_toolbar
+
+https://github.com/kagux/ex_debug_toolbar
+
+
+### 2018-03-11
+
+#### Chaos Monkey for Elixir
+
+https://github.com/dnsbl-io/chaosmonkey-elixir
+
+
+### 2018-03-09
+
+#### erl-env
+
+Make retrieving configuration parameters super fast(7x faster than application:get_env)and stable.
+
+https://github.com/zhongwencool/erl-env
+
+
 ### 2018-02-12
 
 #### Testing in Elixir:: Chapter 3: The outside world is scary…

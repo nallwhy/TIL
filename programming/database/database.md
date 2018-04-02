@@ -1,3 +1,10 @@
+### 2018-02-27
+
+#### Materialized views in Ecto
+
+https://medium.com/@kaisersly/materialized-views-in-ecto-8887bc89efa5
+
+
 ### 2018-02-09
 
 #### Pagination Done the PostgreSQL Way

@@ -1,3 +1,66 @@
+### 2018-05-15
+
+#### Nebulex
+
+A fast, flexible and powerful cache wrapper for Elixir – not only local but also distributed!
+
+https://github.com/cabol/nebulex
+
+
+### 2018-05-11
+
+#### Speed up data access in Elixir
+
+https://medium.com/learn-elixir/speed-up-data-access-in-elixir-842617030514
+
+
+### 2018-05-07
+
+#### NotQwerty123
+
+Elixir library to check password strength and generate random passwords
+
+https://github.com/riverrun/not_qwerty123
+
+
+### 2018-04-18
+
+#### Tesla
+
+The flexible HTTP client library for Elixir, with support for middleware and multiple adapters.
+
+https://github.com/teamon/tesla
+
+
+### 2018-04-12
+
+#### Jason
+
+A blazing fast JSON parser and generator in pure Elixir.
+
+https://github.com/michalmuskala/jason
+
+
+### 2018-04-10
+
+#### Managing state in distributed Elixir - Jerel Unruh
+
+Swarm
+
+https://www.youtube.com/watch?v=V3iBgStaPmA
+
+
+### 2018-04-06
+
+#### Effortless Scaling With Automatic Clusters
+
+https://www.youtube.com/watch?v=zQEgEnjuQsU
+
+#### Erlang distribution over TLS
+
+https://www.erlang-solutions.com/blog/erlang-distribution-over-tls.html
+
+
 ### 2018-03-27
 
 #### Elixir Telegram Bot Boilerplate

@@ -1,6 +1,31 @@
+### 2018-05-14
+
+#### Web performance made easy (Google I/O '18)
+
+https://www.youtube.com/watch?v=Mv-l3-tJgGk
+
+
+### 2018-05-13
+
+#### Svelte
+
+Rather than interpreting your application code at run time, your app is converted into ideal JavaScript at build time.
+
+https://github.com/sveltejs/svelte
+
+
+### 2018-05-10
+
+#### HEAD
+
+A list of everything that *could* go in the <head> of your document
+
+https://github.com/joshbuchea/HEAD
+
+
 ### 2017-12-08
 
-### Stop using JWT for sessions, part 2: Why your solution doesn't work
+#### Stop using JWT for sessions, part 2: Why your solution doesn't work
 
 http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/
 

@@ -1,3 +1,28 @@
+### 2018-04-10
+
+#### Glide
+
+A dependency-free JavaScript ES6 slider and carousel.
+
+https://glidejs.com/
+
+#### Salis
+
+A Rails-esque MVC Framework for Node
+
+https://github.com/balderdashy/sails/
+
+#### Understanding JavaScript Proxies by Examining on-change Library
+
+https://codeburst.io/understanding-javascript-proxies-by-examining-on-change-library-f252eddf76c2
+
+#### on-change
+
+Watch an object or array for changes
+
+https://github.com/sindresorhus/on-change
+
+
 ### 2017-09-12
 
 #### Fastify

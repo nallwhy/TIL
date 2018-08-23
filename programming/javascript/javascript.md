@@ -1,3 +1,11 @@
+### 2018-07-30
+
+#### Code quality checkers
+
+https://deepscan.io/  
+https://www.sonarqube.org/
+
+
 ### 2018-04-10
 
 #### Glide

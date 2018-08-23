@@ -1,4 +1,4 @@
-# Enable shell histroy of IEx
+# Enable shell history of IEx
 
 `export ERL_AFLAGS="-kernel shell_history enabled"`
 

@@ -6,7 +6,7 @@
 
 To prevent XSS, the common response is to escape and encode all untrusted data. But this is far from the full story. In 2015, modern web apps use JavaScript hosted on CDNs or outside infrastructure. Modern web apps include 3rd party JavaScript libraries for A/B testing, funnel/market analysis, and ads. We use package managers like Bower to import other peoples’ code into our apps.
 
-What if only one of the scㄴㅁripts you use is compromised? Malicious JavaScript can be embedded on the page, and Web Storage is compromised. These types of XSS attacks can get everyone’s Web Storage that visits your site, without their knowledge. This is probably why a bunch of organizations advise not to store anything of value or trust any information in web storage. This includes session identifiers and tokens.
+What if only one of the scripts you use is compromised? Malicious JavaScript can be embedded on the page, and Web Storage is compromised. These types of XSS attacks can get everyone’s Web Storage that visits your site, without their knowledge. This is probably why a bunch of organizations advise not to store anything of value or trust any information in web storage. This includes session identifiers and tokens.
 
 요즘은 Chrome extension 같은 것도 있으니 더 조심해야 하는게 아닌가 싶음
 

@@ -22,4 +22,9 @@ To use cli commands of global packages, you should add `yarn global bin` path to
 export PATH=$(yarn global bin):$PATH
 ```
 
+```bash
+# ~/.config/fish/config.fish
+set -x PATH $PATH (yarn global bin)
+```
+
 Reference: https://github.com/yarnpkg/yarn/issues/1321

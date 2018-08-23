@@ -1,3 +1,80 @@
+### 2018-08-22
+
+#### SEO for Single-Page Apps with Headless Chromium
+
+https://www.dhruv.io/posts/seo-for-single-page-apps
+
+#### ECharts
+
+https://ecomfe.github.io/echarts-examples/public/index.html
+
+
+### 2018-07-30
+
+#### Reason & ReasonReact
+
+https://reasonml.github.io/en/
+https://reasonml.github.io/reason-react/en/
+
+
+### 2018-07-19
+
+#### How to get client IP of requests via CloudFront?
+
+https://stackoverflow.com/questions/51393782/how-to-get-client-ip-of-requests-via-cloudfront
+
+
+### 2018-07-18
+
+#### Locale List
+
+https://github.com/umpirsky/locale-list
+
+
+### 2018-07-17
+
+#### Disappearing Frameworks
+
+https://medium.com/samsung-internet-dev/disappearing-frameworks-ed921f411c38
+
+#### Web Architecture 101
+
+https://engineering.videoblocks.com/web-architecture-101-a3224e126947
+
+
+### 2018-06-20
+
+#### The 100% correct way to validate email addresses
+
+https://hackernoon.com/the-100-correct-way-to-validate-email-addresses-7c4818f24643
+
+
+### 2018-06-11
+
+#### The cost of Javascript
+
+https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e
+
+
+### 2018-05-19
+
+#### The power of Headless Chrome and browser automation (Google I/O '18)
+
+https://www.youtube.com/watch?v=lhZOFUY1weo
+
+#### PWAs: building bridges to mobile, desktop, and native (Google I/O '18)
+
+https://www.youtube.com/watch?v=NITk4kXMQDw&t=573s
+
+#### What's new with sign up and sign in on the web (Google I/O '18)
+
+https://www.youtube.com/watch?v=kGGMgEfSzMw
+
+#### Brotli compression delivered from AWS
+
+https://medium.com/@felice.geracitano/brotli-compression-delivered-from-aws-7be5b467c2e1
+
+
 ### 2018-05-14
 
 #### Web performance made easy (Google I/O '18)

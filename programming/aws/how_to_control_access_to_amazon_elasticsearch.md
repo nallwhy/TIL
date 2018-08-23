@@ -1,6 +1,6 @@
 ## How to Control Access to Amazon Elasticsearch Service Domain
 
-Two way
+Two ways
 
 1. **Resource-based policies** - attached to an AWS resource, such as an Amazon S3 bucket.
 * *IP* based.
@@ -24,7 +24,7 @@ Two way
       "Resource": "arn:aws:es:<aws-region>:xxxxxxxx:domain/<es-domain>/*",
       "Condition": {
         "IpAddress": {
-          "aws:SourceIp": "<ip-to-allow>""
+          "aws:SourceIp": "<ip-to-allow>"
         }
       }
     }

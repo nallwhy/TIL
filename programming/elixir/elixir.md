@@ -1,3 +1,91 @@
+### 2018-08-20
+
+#### Easy Session Testing in Phoenix and Plug
+
+https://paulhoffer.com/2018/03/22/easy-session-testing-in-phoenix-and-plug.html
+
+
+### 2018-08-09
+
+#### Phoenix the unofficial guide
+
+https://github.com/happysalada/phoenix-the-unoffcial-guide
+
+#### How to Contribute to Elixir: A Step-by-Step Guide
+
+http://www.sihui.io/how-to-contribute-to-elixir/
+
+
+### 2018-08-06
+
+#### Membrane
+
+Reliable & scalable multimedia streaming
+
+https://www.membraneframework.org/
+
+
+### 2018-08-03
+
+#### Jaxon
+
+Jaxon is the fastest JSON parser that can stream any JSON document without holding it all in memory.
+
+https://github.com/boudra/jaxon
+
+
+### 2018-08-01
+
+#### Elixir app runs in iex, but need to add :eex as a dependency to run as a release
+
+https://stackoverflow.com/questions/49318370/elixir-app-runs-in-iex-but-need-to-add-eex-as-a-dependency-to-run-as-a-release
+
+#### ESpec
+
+https://github.com/antonmi/espec
+
+
+### 2018-07-31
+
+#### Lonestar ElixirConf 2018 - Let's Talk Process Dictionary - Greg Vaughn
+
+https://www.youtube.com/watch?v=zDIoFWwfBO0
+
+
+### 2018-07-30
+
+#### How to Build a Back-Pressure Queuing System in Elixir with sbroker
+
+https://pspdfkit.com/blog/2018/back-pressure-queuing-system-with-sbroker/
+
+#### Elixir tip: :noreply is a killer feature
+
+https://medium.com/@derek.kraan2/elixir-tip-noreply-is-a-killer-feature-40d7d803b272
+
+
+### 2018-07-28
+
+#### Testing GenServer Basic Cache
+
+http://iacobson.net/testing-genserver-basic-cache/
+
+
+### 2018-07-19
+
+#### RemoteIp
+
+A plug to overwrite the Conn's remote_ip based on headers such as X-Forwarded-For.
+
+https://github.com/ajvondrak/remote_ip
+
+
+### 2018-06-15
+
+#### Introducing Sage — a Sagas pattern implementation in Elixir
+
+https://medium.com/nebo-15/introducing-sage-a-sagas-pattern-implementation-in-elixir-3ad499f236f6
+
+
 ### 2018-05-15
 
 #### Nebulex

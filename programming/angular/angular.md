@@ -1,3 +1,12 @@
+### 2018-05-17
+
+#### Super Powered, Server Rendered Progressive Native Apps - Nathan Walker, Jeff Whelpley
+
+https://www.youtube.com/watch?v=EqqNexmu3Ug
+
+https://nstudio.io/xplat/
+
+
 ### 2017-10-14
 
 #### The Ultimate Angular CLI Reference Guide

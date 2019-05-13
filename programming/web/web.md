@@ -1,3 +1,25 @@
+### 2019-02-01
+
+#### Web.dev
+
+https://web.dev/
+
+#### Redesigning your product and website for dark mode
+
+https://stuffandnonsense.co.uk/blog/redesigning-your-product-and-website-for-dark-mode
+
+#### Compress and compare images with different codecs, right in your browser
+
+https://squoosh.app/
+
+
+### 2018-10-15
+
+#### HTML Priority hints
+
+https://medium.com/@euncho/html-priority-hints-6721bf45fe4b
+
+
 ### 2018-08-22
 
 #### SEO for Single-Page Apps with Headless Chromium

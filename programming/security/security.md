@@ -1,3 +1,10 @@
+### 2019-02-01
+
+#### Practical Cryptography for Developers
+
+https://cryptobook.nakov.com/
+
+
 ### 2018-04-12
 
 #### Cross-Site WebSocket Hijacking (CSWSH)

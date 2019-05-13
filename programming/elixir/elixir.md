@@ -1,3 +1,95 @@
+### 2018-03-16
+
+#### Testing with Mock Processes in Elixir
+
+https://blog.smartlogic.io/testing-against-processes-in-elixir/
+
+
+### 2018-03-15
+
+#### EncryptedSecrets
+
+Store your application's secrets inside your VCS
+
+https://github.com/kieraneglin/encrypted_secrets_ex
+
+#### Que
+
+Simple Job Processing in Elixir with Mnesia
+
+https://github.com/sheharyarn/que
+
+#### Exenv
+
+Exenv makes loading environment variables from external sources easy.
+
+https://github.com/nsweeting/exenv
+
+
+### 2018-01-08
+
+#### Aviacommerce
+
+Elixir/Phoenix based e-commerce framework
+
+https://www.aviacommerce.org/
+FRONTEND: https://github.com/aviabird/angularspree
+BACKEND: https://github.com/aviacommerce/avia
+
+
+### 2018-12-20
+
+#### Logging slow Ecto queries: adventures in metaprogramming
+
+https://hackernoon.com/logging-slow-ecto-queries-adventures-in-metaprogramming-110f3472be33
+
+
+### 2018-11-08
+
+#### ElixirConf 2017 - Don't Write Macros But Do Learn How They Work - Jesse Anderson
+
+https://www.youtube.com/watch?v=Bo48sQDb-hk
+
+
+### 2018-10-24
+
+#### Ecto adapter for Mnesia Erlang term database
+
+https://github.com/Nebo15/ecto_mnesia
+
+#### Amnesia
+
+mnesia wrapper for Elixir
+
+https://github.com/meh/amnesia
+
+
+### 2018-10-13
+
+#### Updating Dynamic Maps in Elixir
+
+https://adamdelong.com/elixir-dynamic-maps/
+
+
+### 2018-10-08
+
+#### Deploying
+
+https://www.slideshare.net/petegamache/real-world-elixir-deployment  
+https://www.cogini.com/files/elixir-performance.pdf  
+https://www.cogini.com/blog/best-practices-for-deploying-elixir-apps/  
+https://phoenixframework.org/blog/the-road-to-2-million-websocket-connections
+
+
+### 2018-09-17
+
+#### ExGuard
+
+https://github.com/slashmili/ex_guard  
+https://itnext.io/towards-elixir-phoenix-tasks-automation-684c0388b100
+
+
+
 ### 2018-08-20
 
 #### Easy Session Testing in Phoenix and Plug

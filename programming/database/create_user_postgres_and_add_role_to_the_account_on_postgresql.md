@@ -5,7 +5,7 @@ If you install postgresql on Mac via **Homebrew**, the name of default user is u
 ```
 $ psql postgres
 
-postgres=# CREATE ROLE postgres WITH LOGIN PASSWORD '';
+postgres=# CREATE ROLE postgres WITH LOGIN PASSWORD 'postgres';
 postgres=# ALTER ROLE postgres CREATEDB;
 postgres=# \du
 

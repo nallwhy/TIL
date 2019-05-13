@@ -1,3 +1,31 @@
+### 2018-12-20
+
+#### Principles and Optimization of 5 PostgreSQL Indexes (btree,hash,gin,gist,and brin)
+
+https://medium.com/@Alibaba_Cloud/principles-and-optimization-of-5-postgresql-indexes-btree-hash-gin-gist-and-brin-4d133e7f1842
+
+
+#### pev
+
+Visualize explains of Postgresql
+
+http://tatiyants.com/pev/#/plans/new
+
+
+### 2018-10-09
+
+#### `IS NULL` with row
+
+https://dba.stackexchange.com/questions/157691/x-is-not-null-vs-not-x-is-null-in-postgresql
+
+
+### 2018-08-26
+
+#### Design Patterns using Amazon DynamoDB
+
+https://www.slideshare.net/AmazonWebServices/design-patterns-using-amazon-dynamodb
+
+
 ### 2018-02-27
 
 #### Materialized views in Ecto
